@@ -1,6 +1,6 @@
 1
 00:01:22,000 --> 00:01:23,900
-J'aurais dû m'attendre à vous voir...
+J'aurais dï¿½ m'attendre ï¿½ vous voir...
 
 2
 00:01:25,000 --> 00:01:26,700
@@ -16,7 +16,7 @@ Ce qu'on raconte est vrai, Albus ?
 
 5
 00:01:47,200 --> 00:01:49,200
-Je le crains, professeur.
+Je le crains, professeure.
 
 6
 00:01:49,500 --> 00:01:52,100
@@ -28,7 +28,7 @@ Et l'enfant ?
 
 8
 00:01:54,200 --> 00:01:55,800
-Hagrid l'amène.
+Hagrid l'amï¿½ne.
 
 9
 00:01:55,900 --> 00:01:59,500
@@ -38,7 +38,7 @@ une telle mission ?
 10
 00:02:00,800 --> 00:02:04,100
 Professeur,
-je confierais ma vie à Hagrid.
+je confierais ma vie ï¿½ Hagrid.
 
 11
 00:02:24,200 --> 00:02:25,800
@@ -50,7 +50,7 @@ Professeur McGonagall.
 
 13
 00:02:28,400 --> 00:02:30,600
-Aucun problème, j'espère, Hagrid ?
+Aucun problï¿½me, j'espï¿½re, Hagrid ?
 
 14
 00:02:30,900 --> 00:02:32,200
@@ -63,7 +63,7 @@ quand on survolait Bristol.
 
 16
 00:02:37,900 --> 00:02:39,600
-Faut pas le réveiller.
+Faut pas le rï¿½veiller.
 
 17
 00:02:41,000 --> 00:02:42,500
@@ -75,8 +75,8 @@ Croyez-vous prudent...
 
 19
 00:02:51,700 --> 00:02:54,400
-de le confier à ces gens ?
-Je les ai observés.
+de le confier ï¿½ ces gens ?
+Je les ai observï¿½s.
 
 20
 00:02:54,800 --> 00:02:58,300
@@ -90,12 +90,12 @@ qu'on puisse imaginer.
 
 22
 00:03:03,100 --> 00:03:04,800
-Ce petit sera célèbre.
+Ce petit sera cï¿½lï¿½bre.
 
 23
 00:03:05,100 --> 00:03:08,000
 Tous les enfants de notre monde
-le connaîtront.
+le connaï¿½tront.
 
 24
 00:03:08,300 --> 00:03:09,600
@@ -103,11 +103,11 @@ Justement.
 
 25
 00:03:10,200 --> 00:03:13,300
-Mieux vaut qu'il grandisse à l'écart.
+Mieux vaut qu'il grandisse ï¿½ l'ï¿½cart.
 
 26
 00:03:17,000 --> 00:03:18,900
-Jusqu'à ce qu'il soit prêt.
+Jusqu'ï¿½ ce qu'il soit prï¿½t.
 
 27
 00:03:31,800 --> 00:03:33,400
@@ -132,7 +132,7 @@ A L'ECOLE DES SORCIERS
 
 32
 00:04:11,500 --> 00:04:13,400
-Debout ! Lève-toi !
+Debout ! Lï¿½ve-toi !
 
 33
 00:04:16,900 --> 00:04:18,300
@@ -140,7 +140,7 @@ Tout de suite !
 
 34
 00:04:32,200 --> 00:04:33,400
-Réveille-toi, cousin !
+Rï¿½veille-toi, cousin !
 
 35
 00:04:33,700 --> 00:04:35,300
@@ -148,7 +148,7 @@ On va au zoo !
 
 36
 00:04:46,800 --> 00:04:50,000
-Le voilà, le héros du jour !
+Le voilï¿½, le hï¿½ros du jour !
 
 37
 00:04:50,300 --> 00:04:51,800
@@ -156,8 +156,8 @@ Bon anniversaire.
 
 38
 00:04:54,000 --> 00:04:56,700
-Ne laisse pas brûler
-le petit-déjeuner.
+Ne laisse pas brï¿½ler
+le petit-dï¿½jeuner.
 
 39
 00:04:57,000 --> 00:05:01,800
@@ -166,15 +166,15 @@ le petit-déjeuner.
 
 40
 00:05:02,500 --> 00:05:05,300
-pour la fête de mon Dudley.
+pour la fï¿½te de mon Dudley.
 
 41
 00:05:05,500 --> 00:05:06,600
-Dépêche-toi.
+Dï¿½pï¿½che-toi.
 
 42
 00:05:06,900 --> 00:05:08,900
-- Apporte mon café.
+- Apporte mon cafï¿½.
 - Oui, oncle Vernon.
 
 43
@@ -187,12 +187,12 @@ Y en a combien ?
 
 45
 00:05:18,200 --> 00:05:21,500
-- 36. Je les ai comptés.
+- 36. Je les ai comptï¿½s.
 - 36 ?
 
 46
 00:05:21,900 --> 00:05:23,700
-L'an dernier, c'était 37 !
+L'an dernier, c'ï¿½tait 37 !
 
 47
 00:05:23,900 --> 00:05:26,200
@@ -205,16 +205,16 @@ Je me fiche qu'ils soient gros !
 
 49
 00:05:28,900 --> 00:05:30,600
-Voilà...
+Voilï¿½...
 
 50
 00:05:30,900 --> 00:05:35,000
-En sortant, on en achètera deux autres.
-Ça te va, chouchou ?
+En sortant, on en achï¿½tera deux autres.
+ï¿½a te va, chouchou ?
 
 51
 00:05:46,300 --> 00:05:47,800
-Je te préviens...
+Je te prï¿½viens...
 
 52
 00:05:48,400 --> 00:05:51,600
@@ -223,7 +223,7 @@ quel qu'il soit...
 
 53
 00:05:52,200 --> 00:05:54,900
-tu jeûneras pendant une semaine.
+tu jeï¿½neras pendant une semaine.
 
 54
 00:05:55,900 --> 00:05:56,900
@@ -244,21 +244,21 @@ Bouge !
 
 58
 00:06:14,400 --> 00:06:16,100
-Même pas drôle !
+Mï¿½me pas drï¿½le !
 
 59
 00:06:19,500 --> 00:06:22,600
-Désolé.
+Dï¿½solï¿½.
 Il ne sait pas ce que c'est.
 
 60
 00:06:22,900 --> 00:06:24,600
-Etre là, jour après jour...
+Etre lï¿½, jour aprï¿½s jour...
 
 61
 00:06:25,400 --> 00:06:28,100
 regarder ces visages hideux
-collés contre la vitre.
+collï¿½s contre la vitre.
 
 62
 00:06:32,000 --> 00:06:33,100
@@ -266,7 +266,7 @@ Tu m'entends ?
 
 63
 00:06:38,600 --> 00:06:40,800
-Je n'avais jamais parlé à un serpent.
+Je n'avais jamais parlï¿½ ï¿½ un serpent.
 
 64
 00:06:44,700 --> 00:06:46,400
@@ -278,12 +278,12 @@ Tu viens de Birmanie.
 
 66
 00:06:50,400 --> 00:06:53,300
-C'était bien, là-bas ?
+C'ï¿½tait bien, lï¿½-bas ?
 Ta famille te manque ?
 
 67
 00:06:54,900 --> 00:06:56,400
-<i>Elevé en captivité</i>
+<i>Elevï¿½ en captivitï¿½</i>
 
 68
 00:06:57,100 --> 00:06:58,400
@@ -318,19 +318,19 @@ Aide-moi !
 
 75
 00:08:02,600 --> 00:08:04,100
-Comment es-tu entré ?
+Comment es-tu entrï¿½ ?
 
 76
 00:08:11,700 --> 00:08:13,500
-C'est rien, mon trésor.
+C'est rien, mon trï¿½sor.
 
 77
 00:08:13,800 --> 00:08:16,000
-On va te retirer ces vêtements glacés.
+On va te retirer ces vï¿½tements glacï¿½s.
 
 78
 00:08:18,800 --> 00:08:21,500
-- Que s'est-il passé ?
+- Que s'est-il passï¿½ ?
 - Je ne sais pas !
 
 79
@@ -340,7 +340,7 @@ comme par magie.
 
 80
 00:08:30,000 --> 00:08:32,700
-Ça n'existe pas, la magie !
+ï¿½a n'existe pas, la magie !
 
 81
 00:08:51,800 --> 00:08:54,600
@@ -349,7 +349,7 @@ comme par magie.
 
 82
 00:09:09,900 --> 00:09:12,400
-Marge a mangé un bulot pas frais.
+Marge a mangï¿½ un bulot pas frais.
 
 83
 00:09:13,100 --> 00:09:14,400
@@ -357,11 +357,11 @@ Harry a une lettre !
 
 84
 00:09:14,600 --> 00:09:15,700
-C'est à moi !
+C'est ï¿½ moi !
 
 85
 00:09:16,000 --> 00:09:18,600
-A toi ? Qui pourrait bien t'écrire ?
+A toi ? Qui pourrait bien t'ï¿½crire ?
 
 86
 00:09:50,200 --> 00:09:52,200
@@ -369,11 +369,11 @@ Plus aucun courrier n'entrera...
 
 87
 00:09:52,500 --> 00:09:53,800
-dans cette boîte.
+dans cette boï¿½te.
 
 88
 00:10:06,900 --> 00:10:08,600
-Travaille bien, chéri.
+Travaille bien, chï¿½ri.
 
 89
 00:10:13,700 --> 00:10:15,000
@@ -399,7 +399,7 @@ Pas de courrier.
 
 94
 00:10:57,200 --> 00:11:00,800
-Aucune satanée lettre, aujourd'hui.
+Aucune satanï¿½e lettre, aujourd'hui.
 Non, monsieur !
 
 95
@@ -413,11 +413,11 @@ Non, monsieur.
 
 97
 00:11:16,800 --> 00:11:18,800
-Aucune misérable...
+Aucune misï¿½rable...
 
 98
 00:11:47,100 --> 00:11:48,100
-Donne-moi ça !
+Donne-moi ï¿½a !
 
 99
 00:11:49,300 --> 00:11:51,200
@@ -425,19 +425,19 @@ Donne-moi cette lettre !
 
 100
 00:11:53,800 --> 00:11:54,800
-Lâche-moi !
+Lï¿½che-moi !
 
 101
 00:11:59,500 --> 00:12:01,200
-Elles sont à moi !
+Elles sont ï¿½ moi !
 
 102
 00:12:01,800 --> 00:12:02,800
-Lâche-moi !
+Lï¿½che-moi !
 
 103
 00:12:04,300 --> 00:12:05,700
-Ça suffit !
+ï¿½a suffit !
 
 104
 00:12:06,300 --> 00:12:07,300
@@ -445,8 +445,8 @@ Nous partons !
 
 105
 00:12:08,200 --> 00:12:11,500
-Très loin !
-Là où elles ne nous trouveront pas !
+Trï¿½s loin !
+Lï¿½ oï¿½ elles ne nous trouveront pas !
 
 106
 00:12:12,100 --> 00:12:13,900
@@ -454,15 +454,15 @@ Papa est devenu fou !
 
 107
 00:12:50,000 --> 00:12:51,500
-Fais un vœu, Harry.
+Fais un vï¿½u, Harry.
 
 108
 00:13:08,500 --> 00:13:09,500
-Qui est là ?
+Qui est lï¿½ ?
 
 109
 00:13:22,700 --> 00:13:23,900
-Désolé.
+Dï¿½solï¿½.
 
 110
 00:13:32,200 --> 00:13:34,100
@@ -470,7 +470,7 @@ J'exige que vous sortiez !
 
 111
 00:13:34,400 --> 00:13:36,200
-Vous êtes entré par effraction.
+Vous ï¿½tes entrï¿½ par effraction.
 
 112
 00:13:39,400 --> 00:13:42,100
@@ -478,13 +478,13 @@ La ferme, Dursley, vieux pruneau !
 
 113
 00:13:47,700 --> 00:13:50,600
-La dernière fois,
-tu étais un bébé, Harry.
+La derniï¿½re fois,
+tu ï¿½tais un bï¿½bï¿½, Harry.
 
 114
 00:13:51,200 --> 00:13:54,100
 Mais je m'attendais pas
-à un tel tour de taille.
+ï¿½ un tel tour de taille.
 
 115
 00:13:56,100 --> 00:13:57,400
@@ -505,11 +505,11 @@ J'ai un truc pour toi.
 119
 00:14:06,900 --> 00:14:09,600
 Malheureusement,
-j'ai dû m'asseoir dessus...
+j'ai dï¿½ m'asseoir dessus...
 
 120
 00:14:09,900 --> 00:14:12,100
-mais ce sera bon quand même.
+mais ce sera bon quand mï¿½me.
 
 121
 00:14:15,400 --> 00:14:16,900
@@ -517,11 +517,11 @@ Fait maison. Le texte aussi.
 
 122
 00:14:20,800 --> 00:14:23,300
-<i>Joyeu aniversère</i>
+<i>Joyeu aniversï¿½re</i>
 
 123
 00:14:25,300 --> 00:14:28,300
-Ce gaillard fête pas tous les jours
+Ce gaillard fï¿½te pas tous les jours
 ses 11 ans !
 
 124
@@ -530,25 +530,25 @@ Excusez-moi...
 
 125
 00:14:47,600 --> 00:14:48,700
-qui êtes-vous ?
+qui ï¿½tes-vous ?
 
 126
 00:14:48,900 --> 00:14:53,300
-Rubeus Hagrid. Gardien des Clés
-et des Lieux à Poudlard.
+Rubeus Hagrid. Gardien des Clï¿½s
+et des Lieux ï¿½ Poudlard.
 
 127
 00:14:54,100 --> 00:14:56,300
-Tu connais Poudlard, bien sûr.
+Tu connais Poudlard, bien sï¿½r.
 
 128
 00:14:56,600 --> 00:14:57,700
-Désolé. Non.
+Dï¿½solï¿½. Non.
 
 129
 00:14:59,900 --> 00:15:02,700
-Tu t'es jamais demandé
-où tes parents avaient appris ?
+Tu t'es jamais demandï¿½
+oï¿½ tes parents avaient appris ?
 
 130
 00:15:03,500 --> 00:15:04,600
@@ -565,7 +565,7 @@ Tu es un sorcier.
 
 133
 00:15:11,400 --> 00:15:14,000
-Un as, quand tu te seras entraîné.
+Un as, quand tu te seras entraï¿½nï¿½.
 
 134
 00:15:15,300 --> 00:15:16,800
@@ -573,7 +573,7 @@ Vous vous trompez.
 
 135
 00:15:17,800 --> 00:15:20,300
-Je ne peux pas être un sorcier.
+Je ne peux pas ï¿½tre un sorcier.
 
 136
 00:15:21,300 --> 00:15:23,300
@@ -591,7 +591,7 @@ Harry, c'est tout.
 139
 00:15:29,500 --> 00:15:33,800
 il n'arrive jamais rien de bizarre,
-quand tu es furieux ou effrayé ?
+quand tu es furieux ou effrayï¿½ ?
 
 140
 00:15:52,300 --> 00:15:55,300
@@ -600,7 +600,7 @@ de vous informer...
 
 141
 00:15:55,700 --> 00:15:59,000
-de votre admission au Collège
+de votre admission au Collï¿½ge
 Poudlard, l'Ecole de Sorcellerie."
 
 142
@@ -609,7 +609,7 @@ Il n'ira pas !
 
 143
 00:16:01,500 --> 00:16:04,100
-On s'est juré d'en finir
+On s'est jurï¿½ d'en finir
 avec ces sornettes.
 
 144
@@ -623,30 +623,30 @@ Et vous ne me l'avez jamais dit ?
 146
 00:16:08,900 --> 00:16:11,800
 Oui, on le savait.
-Tu l'étais forcément.
+Tu l'ï¿½tais forcï¿½ment.
 
 147
 00:16:12,100 --> 00:16:15,300
-Ma sœur géniale
-étant ce qu'elle était.
+Ma sï¿½ur gï¿½niale
+ï¿½tant ce qu'elle ï¿½tait.
 
 148
 00:16:16,100 --> 00:16:18,900
-Mes parents étaient si fiers...
+Mes parents ï¿½taient si fiers...
 
 149
 00:16:19,200 --> 00:16:21,300
-quand elle a reçu sa lettre.
+quand elle a reï¿½u sa lettre.
 
 150
 00:16:22,700 --> 00:16:26,000
-"Une sorcière dans la famille.
+"Une sorciï¿½re dans la famille.
 C'est merveilleux !"
 
 151
 00:16:26,500 --> 00:16:29,500
 Moi seule la voyais
-telle qu'elle était.
+telle qu'elle ï¿½tait.
 
 152
 00:16:30,600 --> 00:16:32,200
@@ -668,11 +668,11 @@ aussi... anormal.
 156
 00:16:41,500 --> 00:16:44,200
 Et puis,
-elle a péri dans une explosion...
+elle a pï¿½ri dans une explosion...
 
 157
 00:16:44,700 --> 00:16:46,500
-et on a hérité de toi.
+et on a hï¿½ritï¿½ de toi.
 
 158
 00:16:46,700 --> 00:16:47,900
@@ -685,7 +685,7 @@ Vous m'avez dit
 
 160
 00:16:50,900 --> 00:16:55,000
-Un accident ? Un accident a tué
+Un accident ? Un accident a tuï¿½
 Lily et James Potter ?
 
 161
@@ -700,7 +700,7 @@ Il n'ira pas.
 163
 00:17:02,100 --> 00:17:04,800
 Un grand Moldu comme vous
-l'en empêchera ?
+l'en empï¿½chera ?
 
 164
 00:17:05,800 --> 00:17:08,000
@@ -713,7 +713,7 @@ Il est inscrit depuis sa naissance...
 
 166
 00:17:11,400 --> 00:17:13,900
-dans la plus grande école
+dans la plus grande ï¿½cole
 de sorcellerie.
 
 167
@@ -730,7 +730,7 @@ Albus Dumbledore.
 
 170
 00:17:21,600 --> 00:17:25,200
-Je ne paierai pas un vieux timbré
+Je ne paierai pas un vieux timbrï¿½
 pour lui apprendre des tours.
 
 171
@@ -743,15 +743,15 @@ devant moi.
 
 173
 00:17:52,800 --> 00:17:54,400
-Evite de raconter ça...
+Evite de raconter ï¿½a...
 
 174
 00:17:54,600 --> 00:17:55,800
-à Poudlard.
+ï¿½ Poudlard.
 
 175
 00:17:56,600 --> 00:17:58,500
-J'ai pas droit à la magie.
+J'ai pas droit ï¿½ la magie.
 
 176
 00:18:02,200 --> 00:18:04,600
@@ -760,15 +760,15 @@ Faut qu'on file.
 
 177
 00:18:11,300 --> 00:18:13,500
-Sauf si tu préfères rester.
+Sauf si tu prï¿½fï¿½res rester.
 
 178
 00:18:28,800 --> 00:18:31,700
-"Tous les élèves devront se munir...
+"Tous les ï¿½lï¿½ves devront se munir...
 
 179
 00:18:32,300 --> 00:18:35,100
-d'un chaudron standard en étain,
+d'un chaudron standard en ï¿½tain,
 taille 2.
 
 180
@@ -781,11 +781,11 @@ un hibou, un chat ou un crapaud."
 
 182
 00:18:41,400 --> 00:18:42,700
-On trouve ça à Londres ?
+On trouve ï¿½a ï¿½ Londres ?
 
 183
 00:18:44,200 --> 00:18:46,000
-Il faut connaître.
+Il faut connaï¿½tre.
 
 184
 00:19:10,100 --> 00:19:12,200
@@ -799,7 +799,7 @@ je suis en mission pour Poudlard.
 
 186
 00:19:16,700 --> 00:19:18,800
-On achète les fournitures pour Harry.
+On achï¿½te les fournitures pour Harry.
 
 187
 00:19:19,900 --> 00:19:20,900
@@ -811,7 +811,7 @@ C'est Harry Potter.
 
 189
 00:19:27,900 --> 00:19:30,600
-Bienvenue parmi les vôtres, M. Potter.
+Bienvenue parmi les vï¿½tres, M. Potter.
 
 190
 00:19:31,500 --> 00:19:35,500
@@ -833,12 +833,12 @@ Voici le professeur Quirrell.
 
 194
 00:19:46,500 --> 00:19:49,500
-Il t'enseignera la défense
+Il t'enseignera la dï¿½fense
 contre les forces du Mal.
 
 195
 00:19:49,900 --> 00:19:51,100
-Enchanté.
+Enchantï¿½.
 
 196
 00:19:52,500 --> 00:19:54,900
@@ -858,11 +858,11 @@ Plein d'achats.
 
 200
 00:20:10,100 --> 00:20:11,700
-Tu vois, tu es célèbre.
+Tu vois, tu es cï¿½lï¿½bre.
 
 201
 00:20:11,900 --> 00:20:13,700
-Mais pourquoi suis-je célèbre ?
+Mais pourquoi suis-je cï¿½lï¿½bre ?
 
 202
 00:20:13,900 --> 00:20:17,200
@@ -871,7 +871,7 @@ pourquoi me connaissent-ils ?
 
 203
 00:20:17,600 --> 00:20:20,600
-Je ne suis pas le mieux placé
+Je ne suis pas le mieux placï¿½
 pour te le dire.
 
 204
@@ -880,43 +880,43 @@ Bienvenue au Chemin de Traverse.
 
 205
 00:20:58,500 --> 00:21:00,700
-Ici, on achète les plumes et l'encre.
+Ici, on achï¿½te les plumes et l'encre.
 
 206
 00:21:01,200 --> 00:21:03,400
-Et là, les bricoles pour la magie.
+Et lï¿½, les bricoles pour la magie.
 
 207
 00:21:30,800 --> 00:21:32,200
-Un balai de compétition !
+Un balai de compï¿½tition !
 
 208
 00:21:32,500 --> 00:21:35,600
-Regardez ça !
+Regardez ï¿½a !
 Le nouveau Nimbus 2000.
 
 209
 00:21:36,500 --> 00:21:38,400
-Le modèle le plus rapide.
+Le modï¿½le le plus rapide.
 
 210
 00:21:43,500 --> 00:21:47,900
-Mais comment je vais payer tout ça ?
+Mais comment je vais payer tout ï¿½a ?
 J'ai pas d'argent.
 
 211
 00:21:48,400 --> 00:21:51,600
-Ton argent est là.
+Ton argent est lï¿½.
 Gringotts, la banque des sorciers.
 
 212
 00:21:52,000 --> 00:21:55,700
-Y a pas d'endroit plus sûr.
-Sauf Poudlard, peut-être.
+Y a pas d'endroit plus sï¿½r.
+Sauf Poudlard, peut-ï¿½tre.
 
 213
 00:22:12,400 --> 00:22:14,200
-C'est quoi, ça ?
+C'est quoi, ï¿½a ?
 
 214
 00:22:14,500 --> 00:22:15,700
@@ -929,7 +929,7 @@ mais peu aimables.
 
 216
 00:22:20,100 --> 00:22:21,600
-Reste près de moi.
+Reste prï¿½s de moi.
 
 217
 00:22:26,000 --> 00:22:28,700
@@ -938,7 +938,7 @@ souhaite effectuer un retrait.
 
 218
 00:22:33,800 --> 00:22:36,700
-Et M. Harry Potter a-t-il sa clé ?
+Et M. Harry Potter a-t-il sa clï¿½ ?
 
 219
 00:22:38,000 --> 00:22:39,700
@@ -946,7 +946,7 @@ Attendez, je dois l'avoir.
 
 220
 00:22:44,700 --> 00:22:46,400
-La voilà, la coquine.
+La voilï¿½, la coquine.
 
 221
 00:22:46,800 --> 00:22:48,700
@@ -954,7 +954,7 @@ Ce n'est pas tout.
 
 222
 00:22:51,200 --> 00:22:53,200
-Le professeur Dumbledore m'a donné ça.
+Le professeur Dumbledore m'a donnï¿½ ï¿½a.
 
 223
 00:22:58,300 --> 00:23:02,900
@@ -963,7 +963,7 @@ dans le coffre que-vous-savez.
 
 224
 00:23:04,900 --> 00:23:05,900
-Très bien.
+Trï¿½s bien.
 
 225
 00:23:11,900 --> 00:23:13,200
@@ -971,16 +971,16 @@ Coffre 687.
 
 226
 00:23:16,800 --> 00:23:18,200
-Lampe, s'il vous plaît.
+Lampe, s'il vous plaï¿½t.
 
 227
 00:23:27,600 --> 00:23:28,800
-Clé, s'il vous plaît.
+Clï¿½, s'il vous plaï¿½t.
 
 228
 00:23:52,400 --> 00:23:55,300
 Tes parents
-ne t'auraient pas laissé sans rien.
+ne t'auraient pas laissï¿½ sans rien.
 
 229
 00:23:57,300 --> 00:23:59,400
@@ -988,12 +988,12 @@ Coffre 713.
 
 230
 00:23:59,800 --> 00:24:01,100
-Qu'y a-t-il là-dedans ?
+Qu'y a-t-il lï¿½-dedans ?
 
 231
 00:24:01,400 --> 00:24:05,200
 Je peux rien dire.
-Ça concerne Poudlard. Top secret.
+ï¿½a concerne Poudlard. Top secret.
 
 232
 00:24:05,700 --> 00:24:07,100
@@ -1001,7 +1001,7 @@ Reculez.
 
 233
 00:24:35,600 --> 00:24:37,800
-N'en parle à personne.
+N'en parle ï¿½ personne.
 
 234
 00:24:46,800 --> 00:24:48,000
@@ -1021,11 +1021,11 @@ Chez Ollivander. Y a pas mieux.
 
 238
 00:24:55,300 --> 00:24:57,200
-File m'attendre là-bas.
+File m'attendre lï¿½-bas.
 
 239
 00:24:57,400 --> 00:24:59,900
-J'ai un dernier truc à faire,
+J'ai un dernier truc ï¿½ faire,
 en vitesse.
 
 240
@@ -1043,11 +1043,11 @@ que vos parents sont venus...
 
 243
 00:25:45,300 --> 00:25:47,500
-acheter leur première baguette.
+acheter leur premiï¿½re baguette.
 
 244
 00:25:55,300 --> 00:25:56,700
-Voilà.
+Voilï¿½.
 
 245
 00:26:06,500 --> 00:26:08,100
@@ -1059,7 +1059,7 @@ Apparemment, non.
 
 247
 00:26:25,400 --> 00:26:26,800
-Peut-être...
+Peut-ï¿½tre...
 
 248
 00:26:28,900 --> 00:26:29,800
@@ -1067,7 +1067,7 @@ ceci.
 
 249
 00:26:38,500 --> 00:26:40,100
-Non, sûrement pas.
+Non, sï¿½rement pas.
 
 250
 00:26:41,800 --> 00:26:42,700
@@ -1083,12 +1083,12 @@ Etrange.
 
 253
 00:27:23,800 --> 00:27:25,500
-Très étrange.
+Trï¿½s ï¿½trange.
 
 254
 00:27:26,900 --> 00:27:29,600
 Excusez-moi,
-mais pourquoi étrange ?
+mais pourquoi ï¿½trange ?
 
 255
 00:27:31,500 --> 00:27:34,500
@@ -1097,11 +1097,11 @@ que j'ai vendue.
 
 256
 00:27:35,100 --> 00:27:36,900
-Il se trouve que le phénix...
+Il se trouve que le phï¿½nix...
 
 257
 00:27:38,000 --> 00:27:40,500
-qui a fourni une plume à la vôtre...
+qui a fourni une plume ï¿½ la vï¿½tre...
 
 258
 00:27:40,900 --> 00:27:42,500
@@ -1113,17 +1113,17 @@ une seule.
 
 260
 00:27:46,500 --> 00:27:50,100
-Il est étrange que cette baguette
-vous soit destinée...
+Il est ï¿½trange que cette baguette
+vous soit destinï¿½e...
 
 261
 00:27:51,100 --> 00:27:54,600
-alors que sa sœur
+alors que sa sï¿½ur
 vous a fait cette cicatrice.
 
 262
 00:27:58,400 --> 00:28:00,100
-Qui possédait cette baguette ?
+Qui possï¿½dait cette baguette ?
 
 263
 00:28:02,600 --> 00:28:04,700
@@ -1135,11 +1135,11 @@ La baguette choisit le sorcier.
 
 265
 00:28:09,200 --> 00:28:11,500
-La raison n'est pas toujours évidente.
+La raison n'est pas toujours ï¿½vidente.
 
 266
 00:28:12,600 --> 00:28:15,300
-Mais pour moi, il est évident...
+Mais pour moi, il est ï¿½vident...
 
 267
 00:28:16,100 --> 00:28:18,800
@@ -1148,7 +1148,7 @@ de grandes choses.
 
 268
 00:28:20,400 --> 00:28:21,800
-Après tout...
+Aprï¿½s tout...
 
 269
 00:28:22,000 --> 00:28:24,400
@@ -1177,16 +1177,16 @@ Joyeux anniversaire !
 
 275
 00:28:50,900 --> 00:28:53,400
-Ça va ?
+ï¿½a va ?
 Tu es bien silencieux.
 
 276
 00:28:54,900 --> 00:28:57,200
-Il a tué mes parents...
+Il a tuï¿½ mes parents...
 
 277
 00:28:58,000 --> 00:28:59,700
-celui qui m'a fait ça ?
+celui qui m'a fait ï¿½a ?
 
 278
 00:29:00,700 --> 00:29:02,200
@@ -1194,12 +1194,12 @@ Vous le savez.
 
 279
 00:29:03,100 --> 00:29:04,100
-J'en suis sûr.
+J'en suis sï¿½r.
 
 280
 00:29:08,200 --> 00:29:11,500
 Dis-toi bien,
-car c'est très important...
+car c'est trï¿½s important...
 
 281
 00:29:12,900 --> 00:29:15,100
@@ -1209,11 +1209,11 @@ ne sont pas bons.
 282
 00:29:15,500 --> 00:29:18,000
 Certains tournent mal.
-Il y a quelques années...
+Il y a quelques annï¿½es...
 
 283
 00:29:18,200 --> 00:29:22,600
-un sorcier a très mal tourné.
+un sorcier a trï¿½s mal tournï¿½.
 Il s'appelait V...
 
 284
@@ -1223,7 +1223,7 @@ Il s'appelait V...
 
 285
 00:29:27,300 --> 00:29:29,200
-Je ne sais pas l'écrire.
+Je ne sais pas l'ï¿½crire.
 
 286
 00:29:31,200 --> 00:29:32,200
@@ -1231,21 +1231,21 @@ Voldemort.
 
 287
 00:29:37,800 --> 00:29:39,600
-C'était une sombre époque.
+C'ï¿½tait une sombre ï¿½poque.
 
 288
 00:29:42,200 --> 00:29:45,100
 Voldemort s'est mis
-à rassembler des disciples.
+ï¿½ rassembler des disciples.
 
 289
 00:29:45,700 --> 00:29:48,100
-Il les a entraînés
-dans le Monde des Ténèbres.
+Il les a entraï¿½nï¿½s
+dans le Monde des Tï¿½nï¿½bres.
 
 290
 00:29:50,500 --> 00:29:53,200
-Quiconque lui résistait était tué.
+Quiconque lui rï¿½sistait ï¿½tait tuï¿½.
 
 291
 00:29:54,700 --> 00:29:56,400
@@ -1269,7 +1269,7 @@ Moi ?
 
 296
 00:30:14,800 --> 00:30:17,200
-Voldemort a essayé de me tuer ?
+Voldemort a essayï¿½ de me tuer ?
 
 297
 00:30:18,900 --> 00:30:21,900
@@ -1278,8 +1278,8 @@ sur ton front.
 
 298
 00:30:22,300 --> 00:30:26,900
-C'est forcément la marque
-d'un mauvais sort très puissant.
+C'est forcï¿½ment la marque
+d'un mauvais sort trï¿½s puissant.
 
 299
 00:30:28,200 --> 00:30:29,400
@@ -1295,7 +1295,7 @@ Certains le disent mort.
 
 302
 00:30:36,800 --> 00:30:38,700
-Balivernes, à mon avis.
+Balivernes, ï¿½ mon avis.
 
 303
 00:30:39,200 --> 00:30:42,300
@@ -1307,20 +1307,20 @@ trop faible pour continuer.
 
 305
 00:30:45,800 --> 00:30:47,700
-Mais une chose est sûre...
+Mais une chose est sï¿½re...
 
 306
 00:30:47,900 --> 00:30:50,300
-tu l'as ébranlé, cette nuit-là.
+tu l'as ï¿½branlï¿½, cette nuit-lï¿½.
 
 307
 00:30:51,500 --> 00:30:55,500
-C'est pour ça
-que tout le monde connaît ton nom.
+C'est pour ï¿½a
+que tout le monde connaï¿½t ton nom.
 
 308
 00:30:56,300 --> 00:30:58,400
-Tu es l'enfant qui a survécu.
+Tu es l'enfant qui a survï¿½cu.
 
 309
 00:31:09,300 --> 00:31:11,000
@@ -1332,7 +1332,7 @@ Mince, c'est l'heure ?
 
 311
 00:31:15,800 --> 00:31:19,200
-Désolé, faut que je te laisse.
+Dï¿½solï¿½, faut que je te laisse.
 Dumbledore attend sa...
 
 312
@@ -1345,7 +1345,7 @@ Ton train part dans 10 minutes.
 
 314
 00:31:25,000 --> 00:31:28,700
-Voilà ton billet. Ne le perds pas.
+Voilï¿½ ton billet. Ne le perds pas.
 Ne le perds surtout pas.
 
 315
@@ -1362,11 +1362,11 @@ Mais, il doit y avoir une erreur.
 
 318
 00:31:38,800 --> 00:31:40,700
-C'est écrit voie 93/4.
+C'est ï¿½crit voie 93/4.
 
 319
 00:31:41,000 --> 00:31:42,900
-Ça n'existe pas.
+ï¿½a n'existe pas.
 Si ?
 
 320
@@ -1381,16 +1381,16 @@ la voie 93/4 ?
 322
 00:32:14,600 --> 00:32:16,800
 93/4 ?
-Tu trouves ça drôle ?
+Tu trouves ï¿½a drï¿½le ?
 
 323
 00:32:17,000 --> 00:32:20,500
-C'est comme chaque année,
-bourré de Moldus !
+C'est comme chaque annï¿½e,
+bourrï¿½ de Moldus !
 
 324
 00:32:21,400 --> 00:32:23,100
-Voie 93/4, par là !
+Voie 93/4, par lï¿½ !
 
 325
 00:32:30,200 --> 00:32:32,200
@@ -1398,7 +1398,7 @@ Percy, passe le premier.
 
 326
 00:32:43,500 --> 00:32:44,400
-Fred, à toi.
+Fred, ï¿½ toi.
 
 327
 00:32:44,900 --> 00:32:46,100
@@ -1406,7 +1406,7 @@ C'est moi, Fred.
 
 328
 00:32:46,400 --> 00:32:50,300
-- Et ça prétend être notre mère.
+- Et ï¿½a prï¿½tend ï¿½tre notre mï¿½re.
 - Pardon, George.
 
 329
@@ -1427,13 +1427,13 @@ comment...
 
 333
 00:33:10,200 --> 00:33:13,000
-Comment on accède au quai ?
-T'inquiète pas...
+Comment on accï¿½de au quai ?
+T'inquiï¿½te pas...
 
 334
 00:33:13,300 --> 00:33:15,800
-Ron aussi va pour la première fois
-à Poudlard.
+Ron aussi va pour la premiï¿½re fois
+ï¿½ Poudlard.
 
 335
 00:33:16,100 --> 00:33:17,300
@@ -1495,7 +1495,7 @@ Tu as vraiment la...
 
 349
 00:34:51,300 --> 00:34:52,900
-Dément !
+Dï¿½ment !
 
 350
 00:34:56,100 --> 00:34:59,200
@@ -1512,7 +1512,7 @@ On prend le tout.
 
 353
 00:35:18,400 --> 00:35:22,200
-- Dragées surprises de Bertie Crochue ?
+- Dragï¿½es surprises de Bertie Crochue ?
 - Aux parfums surprise.
 
 354
@@ -1521,12 +1521,12 @@ Il y a chocolat et menthe.
 
 355
 00:35:25,500 --> 00:35:29,800
-Il y a aussi épinards, foie et tripes.
+Il y a aussi ï¿½pinards, foie et tripes.
 
 356
 00:35:31,200 --> 00:35:34,200
 George en a eu une
-à la crotte de nez.
+ï¿½ la crotte de nez.
 
 357
 00:35:39,900 --> 00:35:41,200
@@ -1534,12 +1534,12 @@ Une vraie grenouille ?
 
 358
 00:35:41,900 --> 00:35:45,000
-C'est un sortilège.
+C'est un sortilï¿½ge.
 On collectionne les cartes.
 
 359
 00:35:45,500 --> 00:35:49,000
-Dedans, il y a un sorcier célèbre.
+Dedans, il y a un sorcier cï¿½lï¿½bre.
 J'en ai 500.
 
 360
@@ -1549,7 +1549,7 @@ Attention !
 361
 00:35:57,200 --> 00:36:00,300
 Pas de pot.
-Ça ne peut faire qu'un bond.
+ï¿½a ne peut faire qu'un bond.
 
 362
 00:36:03,300 --> 00:36:04,500
@@ -1569,7 +1569,7 @@ Il va pas rester moisir ici.
 
 366
 00:36:14,900 --> 00:36:17,800
-Ça, c'est Croûtard.
+ï¿½a, c'est Croï¿½tard.
 Minable, hein ?
 
 367
@@ -1592,7 +1592,7 @@ Neville a perdu le sien.
 
 371
 00:36:38,100 --> 00:36:40,400
-Tu fais de la magie ? Voyons ça.
+Tu fais de la magie ? Voyons ï¿½a.
 
 372
 00:36:42,800 --> 00:36:44,400
@@ -1608,7 +1608,7 @@ colorie en jaune ce rat."
 
 375
 00:36:53,100 --> 00:36:55,300
-Tu appelles ça un sort ?
+Tu appelles ï¿½a un sort ?
 
 376
 00:36:56,100 --> 00:36:57,900
@@ -1616,12 +1616,12 @@ Il n'est pas terrible.
 
 377
 00:36:58,900 --> 00:37:01,300
-Je n'ai jeté
+Je n'ai jetï¿½
 que quelques sorts faciles...
 
 378
 00:37:02,400 --> 00:37:04,100
-mais ça a marché à chaque fois.
+mais ï¿½a a marchï¿½ ï¿½ chaque fois.
 
 379
 00:37:08,500 --> 00:37:09,700
@@ -1647,7 +1647,7 @@ Et toi ?
 384
 00:37:28,300 --> 00:37:31,100
 - Ron Weasley.
-- Enchantée.
+- Enchantï¿½e.
 
 385
 00:37:31,900 --> 00:37:33,500
@@ -1655,7 +1655,7 @@ Mettez votre robe de sorcier.
 
 386
 00:37:33,800 --> 00:37:35,400
-Nous arrivons bientôt.
+Nous arrivons bientï¿½t.
 
 387
 00:37:40,800 --> 00:37:42,900
@@ -1664,24 +1664,24 @@ Tu as une tache sur le nez.
 388
 00:37:43,200 --> 00:37:44,900
 Tu le savais ?
-Là.
+Lï¿½.
 
 389
 00:37:58,900 --> 00:38:00,300
-Les première année !
+Les premiï¿½re annï¿½e !
 
 390
 00:38:01,000 --> 00:38:02,600
-Par ici, s'il vous plaît !
+Par ici, s'il vous plaï¿½t !
 
 391
 00:38:02,700 --> 00:38:04,600
-Les première année,
+Les premiï¿½re annï¿½e,
 n'ayez pas peur !
 
 392
 00:38:05,600 --> 00:38:06,800
-Allons, dépêchons !
+Allons, dï¿½pï¿½chons !
 
 393
 00:38:19,800 --> 00:38:22,900
@@ -1690,11 +1690,11 @@ Suivez-moi !
 
 394
 00:39:09,100 --> 00:39:10,400
-Dément !
+Dï¿½ment !
 
 395
 00:39:39,100 --> 00:39:40,800
-Bienvenue à Poudlard.
+Bienvenue ï¿½ Poudlard.
 
 396
 00:39:41,600 --> 00:39:45,300
@@ -1707,8 +1707,8 @@ mais avant de vous asseoir...
 
 398
 00:39:47,400 --> 00:39:50,300
-vous serez répartis
-dans les différentes Maisons.
+vous serez rï¿½partis
+dans les diffï¿½rentes Maisons.
 
 399
 00:39:51,600 --> 00:39:53,900
@@ -1720,7 +1720,7 @@ Serdaigle et Serpentard.
 
 401
 00:39:59,300 --> 00:40:00,500
-Pendant votre séjour...
+Pendant votre sï¿½jour...
 
 402
 00:40:01,600 --> 00:40:04,100
@@ -1728,7 +1728,7 @@ votre Maison sera votre famille.
 
 403
 00:40:04,900 --> 00:40:07,400
-Vos succès rapporteront des points.
+Vos succï¿½s rapporteront des points.
 
 404
 00:40:08,500 --> 00:40:11,600
@@ -1736,7 +1736,7 @@ A chaque infraction, vous en perdrez.
 
 405
 00:40:13,000 --> 00:40:15,100
-A la fin de l'année...
+A la fin de l'annï¿½e...
 
 406
 00:40:15,400 --> 00:40:18,100
@@ -1753,7 +1753,7 @@ Pardon.
 
 409
 00:40:30,400 --> 00:40:33,400
-La Cérémonie de la Répartition
+La Cï¿½rï¿½monie de la Rï¿½partition
 va commencer.
 
 410
@@ -1763,7 +1763,7 @@ ce qu'on disait dans le train.
 
 411
 00:40:39,700 --> 00:40:41,300
-Harry Potter est à Poudlard.
+Harry Potter est ï¿½ Poudlard.
 
 412
 00:40:44,600 --> 00:40:46,700
@@ -1784,7 +1784,7 @@ Inutile de demander le tien.
 
 416
 00:40:57,900 --> 00:41:02,000
-Cheveux roux, robe élimée.
+Cheveux roux, robe ï¿½limï¿½e.
 Tu es un Weasley.
 
 417
@@ -1794,7 +1794,7 @@ valent mieux que d'autres.
 
 418
 00:41:09,600 --> 00:41:11,800
-Tâche de bien choisir tes amis.
+Tï¿½che de bien choisir tes amis.
 
 419
 00:41:13,100 --> 00:41:14,700
@@ -1806,17 +1806,17 @@ Je peux choisir seul, merci.
 
 421
 00:41:27,000 --> 00:41:28,800
-Nous sommes prêts.
+Nous sommes prï¿½ts.
 Suivez-moi.
 
 422
 00:41:47,800 --> 00:41:51,600
 C'est un plafond magique
-qui donne l'illusion d'un ciel étoilé.
+qui donne l'illusion d'un ciel ï¿½toilï¿½.
 
 423
 00:41:52,500 --> 00:41:55,300
-J'ai lu ça
+J'ai lu ï¿½a
 dans <i>l'Histoire de Poudlard</i>
 
 424
@@ -1834,35 +1834,35 @@ souhaite s'exprimer.
 
 427
 00:42:19,500 --> 00:42:23,100
-En ce début d'année,
-j'ai quelques points à énoncer.
+En ce dï¿½but d'annï¿½e,
+j'ai quelques points ï¿½ ï¿½noncer.
 
 428
 00:42:24,600 --> 00:42:26,800
-Les première année, notez...
+Les premiï¿½re annï¿½e, notez...
 
 429
 00:42:27,000 --> 00:42:30,200
-que l'accès à la Forêt
+que l'accï¿½s ï¿½ la Forï¿½t
 est strictement interdit...
 
 430
 00:42:30,500 --> 00:42:32,100
-à tous les élèves.
+ï¿½ tous les ï¿½lï¿½ves.
 
 431
 00:42:33,300 --> 00:42:38,500
 En outre, notre concierge, M. Rusard,
-m'a demandé de vous rappeler...
+m'a demandï¿½ de vous rappeler...
 
 432
 00:42:39,000 --> 00:42:43,300
-que le couloir du 3ème étage, à droite,
+que le couloir du 3ï¿½me ï¿½tage, ï¿½ droite,
 est interdit...
 
 433
 00:42:43,900 --> 00:42:47,800
-à quiconque ne souhaite pas périr
+ï¿½ quiconque ne souhaite pas pï¿½rir
 dans d'atroces souffrances.
 
 434
@@ -1880,11 +1880,11 @@ vous vous avancerez.
 437
 00:42:57,500 --> 00:43:00,400
 Je vous poserai
-le Choixpeau sur la tête...
+le Choixpeau sur la tï¿½te...
 
 438
 00:43:01,300 --> 00:43:03,800
-et vous serez affecté à votre Maison.
+et vous serez affectï¿½ ï¿½ votre Maison.
 
 439
 00:43:05,100 --> 00:43:06,700
@@ -1896,7 +1896,7 @@ On reste calme.
 
 441
 00:43:12,500 --> 00:43:15,100
-Elle est cinglée, je te le dis, moi.
+Elle est cinglï¿½e, je te le dis, moi.
 
 442
 00:43:21,500 --> 00:43:22,700
@@ -1916,8 +1916,8 @@ Serpentard !
 
 446
 00:43:48,500 --> 00:43:51,200
-Tous ceux qui ont mal tourné
-étaient là.
+Tous ceux qui ont mal tournï¿½
+ï¿½taient lï¿½.
 
 447
 00:43:51,400 --> 00:43:52,500
@@ -1929,7 +1929,7 @@ Qu'y a-t-il ?
 
 449
 00:44:05,100 --> 00:44:07,500
-Rien. Ça va.
+Rien. ï¿½a va.
 
 450
 00:44:09,800 --> 00:44:11,000
@@ -1949,7 +1949,7 @@ Encore un Weasley.
 
 454
 00:44:34,200 --> 00:44:36,800
-Je sais où je vais te mettre.
+Je sais oï¿½ je vais te mettre.
 
 455
 00:44:37,800 --> 00:44:39,600
@@ -1961,12 +1961,12 @@ Harry Potter.
 
 457
 00:45:06,800 --> 00:45:09,600
-Difficile. Très difficile.
+Difficile. Trï¿½s difficile.
 
 458
 00:45:09,900 --> 00:45:13,800
 Beaucoup de courage.
-Une tête bien faite.
+Une tï¿½te bien faite.
 
 459
 00:45:14,200 --> 00:45:16,500
@@ -1978,7 +1978,7 @@ Et une soif de faire tes preuves.
 
 461
 00:45:20,700 --> 00:45:22,700
-Mais où te mettre ?
+Mais oï¿½ te mettre ?
 
 462
 00:45:23,600 --> 00:45:26,000
@@ -1990,12 +1990,12 @@ Pas Serpentard ?
 
 464
 00:45:28,700 --> 00:45:31,700
-Tu es sûr ?
+Tu es sï¿½r ?
 Tu ferais de grandes choses.
 
 465
 00:45:32,100 --> 00:45:34,900
-Je lis dans ta tête.
+Je lis dans ta tï¿½te.
 
 466
 00:45:35,200 --> 00:45:38,700
@@ -2008,11 +2008,11 @@ Il n'y a aucun doute. Non ?
 
 468
 00:45:42,000 --> 00:45:45,400
-Pitié. Tout sauf Serpentard.
+Pitiï¿½. Tout sauf Serpentard.
 
 469
 00:45:45,700 --> 00:45:47,200
-Disons plutôt...
+Disons plutï¿½t...
 
 470
 00:45:47,800 --> 00:45:49,200
@@ -2028,16 +2028,16 @@ Que le festin commence !
 
 473
 00:46:39,700 --> 00:46:41,200
-Je suis moitié-moitié.
+Je suis moitiï¿½-moitiï¿½.
 
 474
 00:46:41,500 --> 00:46:44,200
 Papa est un Moldu.
-Maman, une sorcière.
+Maman, une sorciï¿½re.
 
 475
 00:46:44,800 --> 00:46:47,400
-Ça l'a scié quand il s'en est aperçu.
+ï¿½a l'a sciï¿½ quand il s'en est aperï¿½u.
 
 476
 00:46:49,500 --> 00:46:52,800
@@ -2065,7 +2065,7 @@ Il lorgne le poste de Quirrell.
 481
 00:47:10,600 --> 00:47:13,500
 Tout va bien ?
-Bienvenue à Gryffondor.
+Bienvenue ï¿½ Gryffondor.
 
 482
 00:47:25,100 --> 00:47:26,700
@@ -2073,7 +2073,7 @@ C'est le Baron Sanglant !
 
 483
 00:47:32,500 --> 00:47:34,100
-Sir Nicholas, l'été fut bon ?
+Sir Nicholas, l'ï¿½tï¿½ fut bon ?
 
 484
 00:47:35,300 --> 00:47:36,300
@@ -2081,12 +2081,12 @@ Sinistre.
 
 485
 00:47:37,000 --> 00:47:40,300
-Le Club des Chasseurs sans Tête
-a encore rejeté ma candidature.
+Le Club des Chasseurs sans Tï¿½te
+a encore rejetï¿½ ma candidature.
 
 486
 00:47:43,800 --> 00:47:46,500
-Mais vous êtes Nick Quasi-Sans-Tête !
+Mais vous ï¿½tes Nick Quasi-Sans-Tï¿½te !
 
 487
 00:47:46,800 --> 00:47:49,400
@@ -2094,17 +2094,17 @@ Sir Nicholas, je vous prie.
 
 488
 00:47:49,600 --> 00:47:53,000
-Quasi-Sans-Tête ?
+Quasi-Sans-Tï¿½te ?
 Comment est-ce possible ?
 
 489
 00:47:53,700 --> 00:47:54,900
-Comme ça.
+Comme ï¿½a.
 
 490
 00:48:05,600 --> 00:48:08,500
 Les Gryffondor, suivez-moi.
-Dépêchons.
+Dï¿½pï¿½chons.
 
 491
 00:48:09,700 --> 00:48:11,300
@@ -2121,12 +2121,12 @@ vers les dortoirs.
 
 494
 00:48:17,600 --> 00:48:20,700
-Méfiez-vous,
+Mï¿½fiez-vous,
 l'escalier aime se transformer.
 
 495
 00:48:31,000 --> 00:48:33,200
-Dépêchons, je vous prie.
+Dï¿½pï¿½chons, je vous prie.
 Suivez-moi.
 
 496
@@ -2135,7 +2135,7 @@ Le tableau bouge !
 
 497
 00:48:47,600 --> 00:48:50,100
-Bienvenue à Poudlard.
+Bienvenue ï¿½ Poudlard.
 
 498
 00:49:06,200 --> 00:49:07,700
@@ -2148,7 +2148,7 @@ Mot de passe ?
 500
 00:49:17,900 --> 00:49:21,700
 Suivez-moi.
-Dépêchons. Allez, vite !
+Dï¿½pï¿½chons. Allez, vite !
 
 501
 00:49:25,500 --> 00:49:26,800
@@ -2161,16 +2161,16 @@ de Gryffondor.
 
 503
 00:49:33,000 --> 00:49:35,400
-Dortoir des garçons,
-en haut, à votre gauche.
+Dortoir des garï¿½ons,
+en haut, ï¿½ votre gauche.
 
 504
 00:49:35,700 --> 00:49:37,500
-Les filles, à votre droite.
+Les filles, ï¿½ votre droite.
 
 505
 00:49:37,800 --> 00:49:40,600
-On vous a monté vos affaires.
+On vous a montï¿½ vos affaires.
 
 506
 00:50:48,200 --> 00:50:49,900
@@ -2178,8 +2178,8 @@ Ouf, c'est bon !
 
 507
 00:50:51,000 --> 00:50:53,700
-La tête de McGonagall,
-si on avait été en retard !
+La tï¿½te de McGonagall,
+si on avait ï¿½tï¿½ en retard !
 
 508
 00:50:58,700 --> 00:51:00,100
@@ -2187,7 +2187,7 @@ Vachement bien !
 
 509
 00:51:00,600 --> 00:51:03,200
-Merci pour cette appréciation,
+Merci pour cette apprï¿½ciation,
 M. Weasley.
 
 510
@@ -2197,12 +2197,12 @@ chacun de vous en montre ?
 
 511
 00:51:08,200 --> 00:51:11,300
-- L'un de vous serait à l'heure.
+- L'un de vous serait ï¿½ l'heure.
 - On s'est perdus.
 
 512
 00:51:11,700 --> 00:51:15,800
-Ou en plan du Collège ?
+Ou en plan du Collï¿½ge ?
 Inutile pour trouver votre place.
 
 513
@@ -2216,21 +2216,21 @@ dans ce cours.
 
 515
 00:51:31,500 --> 00:51:34,400
-Cela étant,
+Cela ï¿½tant,
 je doute que beaucoup parmi vous...
 
 516
 00:51:34,700 --> 00:51:38,300
 comprennent la science subtile
-de la préparation des potions.
+de la prï¿½paration des potions.
 
 517
 00:51:39,200 --> 00:51:41,700
-Cependant, pour l'infime minorité...
+Cependant, pour l'infime minoritï¿½...
 
 518
 00:51:43,300 --> 00:51:46,400
-qui possède des prédispositions...
+qui possï¿½de des prï¿½dispositions...
 
 519
 00:51:50,300 --> 00:51:53,500
@@ -2239,17 +2239,17 @@ comment ensorceler l'esprit...
 
 520
 00:51:53,800 --> 00:51:56,300
-et piéger les sens.
+et piï¿½ger les sens.
 
 521
 00:51:56,900 --> 00:51:59,200
 Comment mettre
-la renommée en bouteille...
+la renommï¿½e en bouteille...
 
 522
 00:51:59,500 --> 00:52:03,100
 distiller la gloire,
-et même paralyser...
+et mï¿½me paralyser...
 
 523
 00:52:03,600 --> 00:52:05,000
@@ -2257,8 +2257,8 @@ la mort.
 
 524
 00:52:09,900 --> 00:52:14,400
-Néanmoins,
-certains estiment peut-être...
+Nï¿½anmoins,
+certains estiment peut-ï¿½tre...
 
 525
 00:52:14,700 --> 00:52:19,000
@@ -2267,7 +2267,7 @@ qui les autorisent...
 
 526
 00:52:19,900 --> 00:52:22,600
-à ne pas être attentifs.
+ï¿½ ne pas ï¿½tre attentifs.
 
 527
 00:52:29,900 --> 00:52:31,400
@@ -2275,11 +2275,11 @@ M. Potter...
 
 528
 00:52:33,700 --> 00:52:37,100
-notre nouvelle célébrité.
+notre nouvelle cï¿½lï¿½britï¿½.
 
 529
 00:52:40,100 --> 00:52:43,800
-Que donne la racine d'asphodèle
+Que donne la racine d'asphodï¿½le
 dans une infusion d'armoise ?
 
 530
@@ -2289,7 +2289,7 @@ Vous l'ignorez ?
 531
 00:52:50,300 --> 00:52:54,200
 Essayons encore.
-Où iriez-vous me chercher un bézoard ?
+Oï¿½ iriez-vous me chercher un bï¿½zoard ?
 
 532
 00:52:57,300 --> 00:52:58,400
@@ -2297,7 +2297,7 @@ Je ne sais pas.
 
 533
 00:52:59,000 --> 00:53:01,400
-La différence entre napel et tue-loup ?
+La diffï¿½rence entre napel et tue-loup ?
 
 534
 00:53:05,200 --> 00:53:06,400
@@ -2309,8 +2309,8 @@ Dommage.
 
 536
 00:53:11,600 --> 00:53:15,500
-De toute évidence,
-la renommée n'est pas tout...
+De toute ï¿½vidence,
+la renommï¿½e n'est pas tout...
 
 537
 00:53:16,500 --> 00:53:18,200
@@ -2329,41 +2329,41 @@ En rhum
 540
 00:53:30,400 --> 00:53:33,000
 Que veut faire Seamus
-à ce verre d'eau ?
+ï¿½ ce verre d'eau ?
 
 541
 00:53:33,300 --> 00:53:36,500
 Le changer en rhum.
-Il a obtenu un thé léger, hier.
+Il a obtenu un thï¿½ lï¿½ger, hier.
 
 542
 00:53:37,200 --> 00:53:38,300
-Mais après...
+Mais aprï¿½s...
 
 543
 00:53:44,800 --> 00:53:46,000
-Voilà le courrier.
+Voilï¿½ le courrier.
 
 544
 00:54:18,900 --> 00:54:20,300
-Tu me le prêtes ?
+Tu me le prï¿½tes ?
 
 545
 00:54:25,600 --> 00:54:27,700
-Regardez, Neville a reçu un Rapeltout.
+Regardez, Neville a reï¿½u un Rapeltout.
 
 546
 00:54:28,100 --> 00:54:29,400
-J'ai vu ça dans un livre.
+J'ai vu ï¿½a dans un livre.
 
 547
 00:54:30,000 --> 00:54:33,100
-Si la fumée rougit,
-c'est qu'on a oublié quelque chose.
+Si la fumï¿½e rougit,
+c'est qu'on a oubliï¿½ quelque chose.
 
 548
 00:54:34,100 --> 00:54:37,100
-Le problème,
+Le problï¿½me,
 c'est que je ne me rappelle pas quoi.
 
 549
@@ -2373,11 +2373,11 @@ chez Gringotts.
 
 550
 00:54:41,300 --> 00:54:42,500
-Ecoute ça...
+Ecoute ï¿½a...
 
 551
 00:54:42,700 --> 00:54:45,800
-"L'œuvre d'adeptes de la magie noire.
+"L'ï¿½uvre d'adeptes de la magie noire.
 
 552
 00:54:46,200 --> 00:54:48,500
@@ -2386,25 +2386,25 @@ l'effraction...
 
 553
 00:54:48,800 --> 00:54:50,800
-mais assurent que rien n'a été volé.
+mais assurent que rien n'a ï¿½tï¿½ volï¿½.
 
 554
 00:54:51,100 --> 00:54:52,800
-Le coffre visé, le 713...
+Le coffre visï¿½, le 713...
 
 555
 00:54:53,000 --> 00:54:56,200
-avait été vidé,
-plus tôt dans la journée."
+avait ï¿½tï¿½ vidï¿½,
+plus tï¿½t dans la journï¿½e."
 
 556
 00:54:57,100 --> 00:54:59,800
-Bizarre. C'est celui où je suis allé
+Bizarre. C'est celui oï¿½ je suis allï¿½
 avec Hagrid.
 
 557
 00:55:10,400 --> 00:55:11,600
-Bonjour à tous.
+Bonjour ï¿½ tous.
 
 558
 00:55:11,800 --> 00:55:14,000
@@ -2416,7 +2416,7 @@ Bonjour, Amanda.
 
 560
 00:55:18,400 --> 00:55:20,700
-Bienvenue à votre premier cours de vol.
+Bienvenue ï¿½ votre premier cours de vol.
 
 561
 00:55:21,000 --> 00:55:24,900
@@ -2425,7 +2425,7 @@ A gauche de votre balai.
 
 562
 00:55:25,300 --> 00:55:26,700
-Allons, dépêchez-vous.
+Allons, dï¿½pï¿½chez-vous.
 
 563
 00:55:27,900 --> 00:55:30,800
@@ -2478,7 +2478,7 @@ M. Londubat !
 
 574
 00:56:36,600 --> 00:56:37,800
-Revenez immédiatement !
+Revenez immï¿½diatement !
 
 575
 00:57:08,300 --> 00:57:09,700
@@ -2486,16 +2486,16 @@ Ecartez-vous !
 
 576
 00:57:19,800 --> 00:57:23,700
-Le poignet est cassé.
+Le poignet est cassï¿½.
 Pauvre petit. Allons, levez-vous.
 
 577
 00:57:25,700 --> 00:57:27,700
-Gardez les pieds rivés au sol...
+Gardez les pieds rivï¿½s au sol...
 
 578
 00:57:28,000 --> 00:57:31,200
-pendant que je le mène à l'infirmerie.
+pendant que je le mï¿½ne ï¿½ l'infirmerie.
 Compris ?
 
 579
@@ -2504,21 +2504,21 @@ Si j'en vois un seul dans les airs...
 
 580
 00:57:34,500 --> 00:57:38,300
-il sera renvoyé avant d'avoir
+il sera renvoyï¿½ avant d'avoir
 eu le temps de dire "Quidditch".
 
 581
 00:57:40,000 --> 00:57:41,300
-Vous avez vu sa tête ?
+Vous avez vu sa tï¿½te ?
 
 582
 00:57:42,000 --> 00:57:46,000
-Si ce gros s'était servi de ça,
-il aurait pensé à tomber sur le cul.
+Si ce gros s'ï¿½tait servi de ï¿½a,
+il aurait pensï¿½ ï¿½ tomber sur le cul.
 
 583
 00:57:46,200 --> 00:57:47,800
-Donne ça, Malefoy.
+Donne ï¿½a, Malefoy.
 
 584
 00:57:50,600 --> 00:57:52,900
@@ -2540,7 +2540,7 @@ Tu as entendu Mme Bibine.
 
 588
 00:58:10,500 --> 00:58:12,800
-Et tu ne sais même pas voler.
+Et tu ne sais mï¿½me pas voler.
 
 589
 00:58:14,400 --> 00:58:16,200
@@ -2548,7 +2548,7 @@ Quel idiot !
 
 590
 00:58:19,800 --> 00:58:22,300
-Donne-moi ça, ou je te fais tomber !
+Donne-moi ï¿½a, ou je te fais tomber !
 
 591
 00:58:23,500 --> 00:58:24,500
@@ -2556,11 +2556,11 @@ Sans blague ?
 
 592
 00:58:28,800 --> 00:58:30,200
-Tu l'auras cherché.
+Tu l'auras cherchï¿½.
 
 593
 00:59:05,100 --> 00:59:06,700
-C'était dément !
+C'ï¿½tait dï¿½ment !
 
 594
 00:59:10,500 --> 00:59:11,500
@@ -2580,7 +2580,7 @@ Je vous emprunte Dubois ?
 
 598
 00:59:33,900 --> 00:59:35,500
-Oui, bien sûr.
+Oui, bien sï¿½r.
 
 599
 00:59:41,200 --> 00:59:42,900
@@ -2588,7 +2588,7 @@ Voici Olivier Dubois.
 
 600
 00:59:44,900 --> 00:59:46,800
-Je vous ai trouvé un attrapeur.
+Je vous ai trouvï¿½ un attrapeur.
 
 601
 00:59:49,400 --> 00:59:52,600
@@ -2601,30 +2601,30 @@ Je savais qu'il irait loin.
 
 603
 00:59:55,700 --> 00:59:59,500
-Mais les première année
+Mais les premiï¿½re annï¿½e
 ne participent jamais.
 
 604
 00:59:59,900 --> 01:00:02,200
-Tu dois être
+Tu dois ï¿½tre
 le plus jeune joueur depuis...
 
 605
 01:00:02,400 --> 01:00:04,500
-Un siècle, d'après McGonagall.
+Un siï¿½cle, d'aprï¿½s McGonagall.
 
 606
 01:00:04,900 --> 01:00:06,900
-Bravo. Dubois vient de nous prévenir.
+Bravo. Dubois vient de nous prï¿½venir.
 
 607
 01:00:07,400 --> 01:00:09,800
-Fred et George sont dans l'équipe.
+Fred et George sont dans l'ï¿½quipe.
 Batteurs.
 
 608
 01:00:10,100 --> 01:00:13,600
-Notre rôle est d'éviter
+Notre rï¿½le est d'ï¿½viter
 que tu te fasses massacrer.
 
 609
@@ -2635,11 +2635,11 @@ Dur, le Quidditch.
 610
 01:00:16,900 --> 01:00:20,700
 Brutal. Mais aucun mort
-depuis des années. Des disparitions...
+depuis des annï¿½es. Des disparitions...
 
 611
 01:00:21,100 --> 01:00:23,500
-Mais ils réapparaissent un mois après.
+Mais ils rï¿½apparaissent un mois aprï¿½s.
 
 612
 01:00:24,400 --> 01:00:25,500
@@ -2652,18 +2652,18 @@ Et tu seras un champion !
 
 614
 01:00:30,000 --> 01:00:32,900
-Mais je n'y ai jamais joué.
+Mais je n'y ai jamais jouï¿½.
 Et si je me ridiculise ?
 
 615
 01:00:33,500 --> 01:00:36,800
 Tu ne te ridiculiseras pas.
-Tu as ça dans le sang.
+Tu as ï¿½a dans le sang.
 
 616
 01:00:45,700 --> 01:00:49,300
 Tu ne m'as jamais dit
-que ton père avait été attrapeur.
+que ton pï¿½re avait ï¿½tï¿½ attrapeur.
 
 617
 01:00:51,500 --> 01:00:52,800
@@ -2671,7 +2671,7 @@ Je ne le savais pas.
 
 618
 01:00:58,400 --> 01:01:02,700
-Ça fait froid dans le dos. Elle en sait
+ï¿½a fait froid dans le dos. Elle en sait
 plus que toi sur ton compte.
 
 619
@@ -2695,15 +2695,15 @@ Tu te souviens ?
 623
 01:01:30,400 --> 01:01:33,700
 Vous n'avez pas l'impression
-qu'on ne devrait pas être ici ?
+qu'on ne devrait pas ï¿½tre ici ?
 
 624
 01:01:34,000 --> 01:01:36,100
-On n'a rien à faire ici !
+On n'a rien ï¿½ faire ici !
 
 625
 01:01:36,400 --> 01:01:38,600
-On est au 3ème étage. C'est interdit.
+On est au 3ï¿½me ï¿½tage. C'est interdit.
 
 626
 01:01:41,500 --> 01:01:42,600
@@ -2716,11 +2716,11 @@ Allons-y.
 
 628
 01:01:51,800 --> 01:01:55,000
-Cachons-nous derrière cette porte !
+Cachons-nous derriï¿½re cette porte !
 
 629
 01:02:00,700 --> 01:02:02,800
-- Elle est verrouillée.
+- Elle est verrouillï¿½e.
 - On est cuits !
 
 630
@@ -2754,11 +2754,11 @@ Viens.
 637
 01:02:27,500 --> 01:02:29,900
 - Il est parti.
-- Il croit que c'est verrouillé.
+- Il croit que c'est verrouillï¿½.
 
 638
 01:02:30,200 --> 01:02:32,700
-- Ça l'était !
+- ï¿½a l'ï¿½tait !
 - Et pour cause.
 
 639
@@ -2767,17 +2767,17 @@ Poussez !
 
 640
 01:02:59,500 --> 01:03:01,200
-On n'a pas idée...
+On n'a pas idï¿½e...
 
 641
 01:03:01,400 --> 01:03:04,500
 de garder un truc pareil
-enfermé dans une école !
+enfermï¿½ dans une ï¿½cole !
 
 642
 01:03:05,200 --> 01:03:08,700
 Tu as les yeux dans ta poche ?
-Tu n'as pas vu sur quoi il était ?
+Tu n'as pas vu sur quoi il ï¿½tait ?
 
 643
 01:03:09,100 --> 01:03:10,900
@@ -2785,17 +2785,17 @@ Je ne regardais pas ses pattes.
 
 644
 01:03:11,200 --> 01:03:13,100
-J'étais fasciné par ses têtes.
+J'ï¿½tais fascinï¿½ par ses tï¿½tes.
 
 645
 01:03:13,600 --> 01:03:16,300
-Tu n'as pas remarqué ?
+Tu n'as pas remarquï¿½ ?
 Il y en avait trois !
 
 646
 01:03:16,600 --> 01:03:20,100
-Il était sur une trappe.
-Il n'était donc pas là par hasard.
+Il ï¿½tait sur une trappe.
+Il n'ï¿½tait donc pas lï¿½ par hasard.
 
 647
 01:03:20,300 --> 01:03:23,700
@@ -2805,7 +2805,7 @@ Il n'était donc pas là par hasard.
 648
 01:03:24,400 --> 01:03:27,100
 Absolument.
-Si ça ne vous dérange pas...
+Si ï¿½a ne vous dï¿½range pas...
 
 649
 01:03:27,400 --> 01:03:31,600
@@ -2818,12 +2818,12 @@ Ou pire, renvoyer.
 
 651
 01:03:38,700 --> 01:03:41,600
-Elle devrait redéfinir ses priorités.
+Elle devrait redï¿½finir ses prioritï¿½s.
 
 652
 01:03:48,200 --> 01:03:51,400
 Le Quidditch, c'est simple.
-7 joueurs par équipe.
+7 joueurs par ï¿½quipe.
 
 653
 01:03:52,000 --> 01:03:53,500
@@ -2839,7 +2839,7 @@ Le Quidditch, c'est simple.
 
 656
 01:04:04,900 --> 01:04:06,600
-Ça, c'est le Souafle.
+ï¿½a, c'est le Souafle.
 
 657
 01:04:07,200 --> 01:04:09,400
@@ -2852,7 +2852,7 @@ et visent un de ces 3 cercles.
 
 659
 01:04:13,100 --> 01:04:16,700
-Le gardien, moi, défend les buts.
+Le gardien, moi, dï¿½fend les buts.
 Tu me suis ?
 
 660
@@ -2862,7 +2862,7 @@ Et les autres ?
 
 661
 01:04:24,500 --> 01:04:25,500
-Prends ça.
+Prends ï¿½a.
 
 662
 01:04:36,900 --> 01:04:38,200
@@ -2891,7 +2891,7 @@ Mais toi, tu es attrapeur.
 668
 01:05:20,600 --> 01:05:24,200
 La seule chose dont tu dois t'occuper,
-c'est ça.
+c'est ï¿½a.
 
 669
 01:05:25,400 --> 01:05:26,800
@@ -2899,12 +2899,12 @@ Le Vif d'Or.
 
 670
 01:05:28,300 --> 01:05:32,000
-- Elle me plaît.
-- Là, elle te plaît. Mais attends.
+- Elle me plaï¿½t.
+- Lï¿½, elle te plaï¿½t. Mais attends.
 
 671
 01:05:32,600 --> 01:05:35,500
-Elle fonce et on a du mal à la voir.
+Elle fonce et on a du mal ï¿½ la voir.
 
 672
 01:05:35,700 --> 01:05:37,200
@@ -2930,11 +2930,11 @@ rudimentaires...
 
 677
 01:05:59,900 --> 01:06:01,400
-est la lévitation.
+est la lï¿½vitation.
 
 678
 01:06:01,600 --> 01:06:05,200
-Ou capacité de faire voler des objets.
+Ou capacitï¿½ de faire voler des objets.
 
 679
 01:06:06,400 --> 01:06:08,500
@@ -2964,15 +2964,15 @@ Bien. Et prononcez...
 
 685
 01:06:27,600 --> 01:06:28,800
-Je vous écoute.
+Je vous ï¿½coute.
 
 686
 01:06:39,400 --> 01:06:40,700
-Arrête !
+Arrï¿½te !
 
 687
 01:06:41,200 --> 01:06:43,300
-Tu vas éborgner quelqu'un.
+Tu vas ï¿½borgner quelqu'un.
 
 688
 01:06:43,600 --> 01:06:45,400
@@ -2993,7 +2993,7 @@ Bravo !
 
 692
 01:07:08,500 --> 01:07:11,200
-Regardez tous. Mlle Granger a réussi.
+Regardez tous. Mlle Granger a rï¿½ussi.
 
 693
 01:07:12,000 --> 01:07:13,100
@@ -3022,7 +3022,7 @@ Pas Levio-saaa !"
 
 699
 01:07:36,600 --> 01:07:38,700
-Quel cauchemar, celle-là !
+Quel cauchemar, celle-lï¿½ !
 
 700
 01:07:38,900 --> 01:07:40,800
@@ -3034,7 +3034,7 @@ Elle t'a entendu.
 
 702
 01:08:14,400 --> 01:08:15,900
-Où est Hermione ?
+Oï¿½ est Hermione ?
 
 703
 01:08:16,300 --> 01:08:19,400
@@ -3043,8 +3043,8 @@ des toilettes des filles.
 
 704
 01:08:19,700 --> 01:08:22,600
-Elle y a passé tout l'après-midi,
-à pleurer.
+Elle y a passï¿½ tout l'aprï¿½s-midi,
+ï¿½ pleurer.
 
 705
 01:08:28,100 --> 01:08:29,200
@@ -3056,7 +3056,7 @@ dans les cachots !
 
 707
 01:08:38,300 --> 01:08:39,500
-Je voulais vous prévenir.
+Je voulais vous prï¿½venir.
 
 708
 01:08:48,300 --> 01:08:50,000
@@ -3064,11 +3064,11 @@ Silence !
 
 709
 01:08:51,700 --> 01:08:54,600
-S'il vous plaît, pas de panique.
+S'il vous plaï¿½t, pas de panique.
 
 710
 01:08:58,400 --> 01:09:00,800
-Les Préfets ramènent les élèves...
+Les Prï¿½fets ramï¿½nent les ï¿½lï¿½ves...
 
 711
 01:09:01,100 --> 01:09:02,400
@@ -3081,8 +3081,8 @@ aux cachots.
 
 713
 01:09:19,500 --> 01:09:22,500
-Gryffondor, dépêchons,
-et ouvrez l'œil !
+Gryffondor, dï¿½pï¿½chons,
+et ouvrez l'ï¿½il !
 
 714
 01:09:22,800 --> 01:09:24,600
@@ -3090,11 +3090,11 @@ Comment un troll a pu entrer ?
 
 715
 01:09:24,900 --> 01:09:27,400
-Pas tout seul. Les trolls sont bêtes.
+Pas tout seul. Les trolls sont bï¿½tes.
 
 716
 01:09:27,700 --> 01:09:29,300
-C'est sûrement une blague.
+C'est sï¿½rement une blague.
 
 717
 01:09:30,800 --> 01:09:32,800
@@ -3102,7 +3102,7 @@ Hermione. Elle n'est pas au courant.
 
 718
 01:09:46,400 --> 01:09:48,600
-Le troll a quitté les cachots.
+Le troll a quittï¿½ les cachots.
 
 719
 01:09:53,400 --> 01:09:55,200
@@ -3118,7 +3118,7 @@ Au secours !
 
 722
 01:10:39,300 --> 01:10:40,300
-Gros bêta !
+Gros bï¿½ta !
 
 723
 01:11:15,900 --> 01:11:17,000
@@ -3147,7 +3147,7 @@ Il est mort ?
 
 729
 01:12:09,600 --> 01:12:12,500
-Je ne crois pas. Juste sonné.
+Je ne crois pas. Juste sonnï¿½.
 
 730
 01:12:19,900 --> 01:12:21,300
@@ -3188,7 +3188,7 @@ Sans Harry et Ron...
 
 739
 01:12:48,100 --> 01:12:49,600
-je serais sûrement morte.
+je serais sï¿½rement morte.
 
 740
 01:12:50,700 --> 01:12:52,000
@@ -3196,7 +3196,7 @@ Quoi qu'il en soit...
 
 741
 01:12:52,700 --> 01:12:55,200
-c'était stupide
+c'ï¿½tait stupide
 de faire une chose pareille.
 
 742
@@ -3206,12 +3206,12 @@ plus raisonnable...
 
 743
 01:12:57,800 --> 01:13:00,900
-et vous me décevez beaucoup,
+et vous me dï¿½cevez beaucoup,
 Mlle Granger.
 
 744
 01:13:01,300 --> 01:13:03,400
-5 points de moins à Gryffondor...
+5 points de moins ï¿½ Gryffondor...
 
 745
 01:13:04,500 --> 01:13:06,300
@@ -3219,12 +3219,12 @@ pour votre aveuglement.
 
 746
 01:13:08,900 --> 01:13:13,200
-Quant à vous,
+Quant ï¿½ vous,
 rendez-vous compte de votre chance.
 
 747
 01:13:14,500 --> 01:13:17,700
-Peu de première année
+Peu de premiï¿½re annï¿½e
 affrontent un troll adulte...
 
 748
@@ -3237,15 +3237,15 @@ et sont en vie pour le raconter.
 
 750
 01:13:24,700 --> 01:13:26,900
-seront accordés à chacun de vous...
+seront accordï¿½s ï¿½ chacun de vous...
 
 751
 01:13:29,500 --> 01:13:31,400
-pour votre chance infâme.
+pour votre chance infï¿½me.
 
 752
 01:13:38,300 --> 01:13:40,800
-Partez. Il pourrait se réveiller.
+Partez. Il pourrait se rï¿½veiller.
 
 753
 01:13:49,700 --> 01:13:51,500
@@ -3254,7 +3254,7 @@ Mange un bout de toast.
 754
 01:13:52,500 --> 01:13:55,700
 Ron a raison.
-Prends des forces pour tout à l'heure.
+Prends des forces pour tout ï¿½ l'heure.
 
 755
 01:13:56,100 --> 01:13:57,500
@@ -3266,30 +3266,30 @@ Bonne chance, Potter.
 
 757
 01:14:02,200 --> 01:14:05,200
-Après avoir vaincu un troll,
+Aprï¿½s avoir vaincu un troll,
 un match de Quidditch...
 
 758
 01:14:05,600 --> 01:14:07,500
-devrait être un jeu d'enfant.
+devrait ï¿½tre un jeu d'enfant.
 
 759
 01:14:08,100 --> 01:14:10,100
-Même contre Serpentard.
+Mï¿½me contre Serpentard.
 
 760
 01:14:18,900 --> 01:14:21,900
-- Ça explique le sang.
+- ï¿½a explique le sang.
 - Quel sang ?
 
 761
 01:14:23,700 --> 01:14:27,100
 Rogue a fait entrer le troll
-pour créer une diversion...
+pour crï¿½er une diversion...
 
 762
 01:14:27,500 --> 01:14:29,600
-et passer le chien à trois têtes.
+et passer le chien ï¿½ trois tï¿½tes.
 
 763
 01:14:29,900 --> 01:14:32,500
@@ -3319,7 +3319,7 @@ et Rogue le veut.
 
 769
 01:15:01,700 --> 01:15:03,400
-Un peu tôt pour le courrier.
+Un peu tï¿½t pour le courrier.
 
 770
 01:15:04,500 --> 01:15:05,500
@@ -3362,11 +3362,11 @@ Moi aussi, avant mon premier match.
 
 779
 01:15:59,500 --> 01:16:01,400
-J'ai pris un Cognard dans la tête.
+J'ai pris un Cognard dans la tï¿½te.
 
 780
 01:16:02,600 --> 01:16:04,900
-Je me suis réveillé à l'hôpital.
+Je me suis rï¿½veillï¿½ ï¿½ l'hï¿½pital.
 
 781
 01:16:27,600 --> 01:16:30,900
@@ -3394,11 +3394,11 @@ le plus grand fair-play...
 
 786
 01:17:16,800 --> 01:17:18,100
-à vous tous.
+ï¿½ vous tous.
 
 787
 01:17:24,500 --> 01:17:27,100
-Les Cognards s'élèvent,
+Les Cognards s'ï¿½lï¿½vent,
 suivis par le Vif d'Or.
 
 788
@@ -3413,7 +3413,7 @@ conclut le match.
 
 790
 01:17:40,400 --> 01:17:44,100
-Le Souafle est lâché...
+Le Souafle est lï¿½chï¿½...
 C'est parti !
 
 791
@@ -3423,7 +3423,7 @@ Angelina Johnson marque !
 
 792
 01:18:12,900 --> 01:18:14,100
-Bien joué !
+Bien jouï¿½ !
 
 793
 01:18:18,800 --> 01:18:20,700
@@ -3440,11 +3440,11 @@ au capitaine, Marcus Flint.
 
 796
 01:19:13,200 --> 01:19:14,500
-Donne-moi ça !
+Donne-moi ï¿½a !
 
 797
 01:19:46,500 --> 01:19:48,000
-Prends ce côté-là !
+Prends ce cï¿½tï¿½-lï¿½ !
 
 798
 01:20:38,500 --> 01:20:40,800
@@ -3500,17 +3500,17 @@ Ridicule.
 
 811
 01:23:57,500 --> 01:24:00,400
-- Pourquoi envoûter le balai ?
+- Pourquoi envoï¿½ter le balai ?
 - Qui sait ?
 
 812
 01:24:00,800 --> 01:24:03,000
 Pourquoi affronter
-le chien à trois têtes ?
+le chien ï¿½ trois tï¿½tes ?
 
 813
 01:24:04,000 --> 01:24:06,400
-- Qui vous a parlé de Touffu ?
+- Qui vous a parlï¿½ de Touffu ?
 - Touffu ?
 
 814
@@ -3523,12 +3523,12 @@ Evidemment. C'est mon chien.
 
 816
 01:24:10,600 --> 01:24:13,500
-Je l'ai acheté à un lrlandais
-rencontré dans un pub.
+Je l'ai achetï¿½ ï¿½ un lrlandais
+rencontrï¿½ dans un pub.
 
 817
 01:24:13,700 --> 01:24:15,800
-Je l'ai prêté à Dumbledore
+Je l'ai prï¿½tï¿½ ï¿½ Dumbledore
 pour garder...
 
 818
@@ -3552,8 +3552,8 @@ Professeur ou pas...
 
 822
 01:24:31,300 --> 01:24:34,200
-je sais reconnaître un sort.
-J'ai tout lu là-dessus.
+je sais reconnaï¿½tre un sort.
+J'ai tout lu lï¿½-dessus.
 
 823
 01:24:34,800 --> 01:24:38,200
@@ -3570,7 +3570,7 @@ Ecoutez-moi, vous trois.
 
 826
 01:24:44,400 --> 01:24:46,600
-Faut pas vous mêler de ça.
+Faut pas vous mï¿½ler de ï¿½a.
 
 827
 01:24:47,700 --> 01:24:49,000
@@ -3587,7 +3587,7 @@ Nicolas Flamel ?
 
 830
 01:24:57,000 --> 01:24:58,400
-J'aurais pas dû dire ça.
+J'aurais pas dï¿½ dire ï¿½a.
 
 831
 01:25:04,200 --> 01:25:05,900
@@ -3595,7 +3595,7 @@ Qui est Nicolas Flamel ?
 
 832
 01:25:06,300 --> 01:25:07,600
-Aucune idée.
+Aucune idï¿½e.
 
 833
 01:25:52,800 --> 01:25:54,600
@@ -3611,7 +3611,7 @@ Quelle barbarie !
 
 836
 01:26:13,500 --> 01:26:15,500
-Les échecs, version sorcier.
+Les ï¿½checs, version sorcier.
 
 837
 01:26:15,900 --> 01:26:18,400
@@ -3625,8 +3625,8 @@ mes parents vont en Roumanie...
 
 839
 01:26:22,400 --> 01:26:25,500
-voir mon frère Charlie.
-Il y étudie les dragons.
+voir mon frï¿½re Charlie.
+Il y ï¿½tudie les dragons.
 
 840
 01:26:26,300 --> 01:26:28,100
@@ -3634,20 +3634,20 @@ Alors, tu aideras Harry...
 
 841
 01:26:28,400 --> 01:26:31,700
-à se documenter sur Nicolas Flamel,
-à la bibliothèque.
+ï¿½ se documenter sur Nicolas Flamel,
+ï¿½ la bibliothï¿½que.
 
 842
 01:26:32,100 --> 01:26:34,400
-On a cherché cent fois.
+On a cherchï¿½ cent fois.
 
 843
 01:26:36,300 --> 01:26:38,300
-Pas dans la Réserve.
+Pas dans la Rï¿½serve.
 
 844
 01:26:39,200 --> 01:26:40,700
-Joyeux Noël.
+Joyeux Noï¿½l.
 
 845
 01:26:43,600 --> 01:26:46,100
@@ -3655,15 +3655,15 @@ On a une mauvaise influence sur elle.
 
 846
 01:26:49,100 --> 01:26:50,500
-Harry, réveille-toi !
+Harry, rï¿½veille-toi !
 
 847
 01:26:50,700 --> 01:26:52,600
-Allez, réveille-toi !
+Allez, rï¿½veille-toi !
 
 848
 01:27:03,200 --> 01:27:04,500
-Joyeux Noël !
+Joyeux Noï¿½l !
 
 849
 01:27:06,700 --> 01:27:07,800
@@ -3680,11 +3680,11 @@ J'ai des cadeaux ?
 
 852
 01:27:24,300 --> 01:27:25,300
-Ils sont là.
+Ils sont lï¿½.
 
 853
 01:27:37,700 --> 01:27:40,700
-"Ton père m'a confié ceci
+"Ton pï¿½re m'a confiï¿½ ceci
 avant de mourir.
 
 854
@@ -3714,7 +3714,7 @@ J'ai plus de corps !
 860
 01:28:16,000 --> 01:28:19,200
 Je connais.
-C'est une cape d'invisibilité.
+C'est une cape d'invisibilitï¿½.
 
 861
 01:28:20,100 --> 01:28:21,600
@@ -3722,11 +3722,11 @@ Je suis invisible ?
 
 862
 01:28:22,500 --> 01:28:24,000
-C'est très rare.
+C'est trï¿½s rare.
 
 863
 01:28:25,800 --> 01:28:27,100
-Qui t'a offert ça ?
+Qui t'a offert ï¿½a ?
 
 864
 01:28:27,400 --> 01:28:29,700
@@ -3739,15 +3739,15 @@ Seulement...
 
 866
 01:28:43,800 --> 01:28:45,100
-<i>Réserve</i>
+<i>Rï¿½serve</i>
 
 867
 01:29:00,200 --> 01:29:02,300
-<i>Cracheurs de feu célèbres.</i>
+<i>Cracheurs de feu cï¿½lï¿½bres.</i>
 
 868
 01:29:02,700 --> 01:29:05,000
-<i>Démons du 15ème siècle.</i>
+<i>Dï¿½mons du 15ï¿½me siï¿½cle.</i>
 
 869
 01:29:06,300 --> 01:29:07,300
@@ -3759,23 +3759,23 @@ Nicolas Flamel.
 
 871
 01:29:09,600 --> 01:29:11,000
-Où es-tu ?
+Oï¿½ es-tu ?
 
 872
 01:29:31,000 --> 01:29:32,200
-Qui est là ?
+Qui est lï¿½ ?
 
 873
 01:29:39,000 --> 01:29:40,500
-Je sais que vous êtes là.
+Je sais que vous ï¿½tes lï¿½.
 
 874
 01:29:41,700 --> 01:29:43,500
-Vous ne m'échapperez pas.
+Vous ne m'ï¿½chapperez pas.
 
 875
 01:29:52,100 --> 01:29:53,100
-Qui est là ?
+Qui est lï¿½ ?
 
 876
 01:29:53,700 --> 01:29:54,900
@@ -3807,12 +3807,12 @@ de choisir votre camp.
 882
 01:31:20,300 --> 01:31:24,300
 Professeurs...
-J'ai trouvé ça dans la Réserve.
+J'ai trouvï¿½ ï¿½a dans la Rï¿½serve.
 
 883
 01:31:25,200 --> 01:31:28,700
 Elle est encore chaude.
-Un élève a quitté son lit.
+Un ï¿½lï¿½ve a quittï¿½ son lit.
 
 884
 01:33:02,300 --> 01:33:03,600
@@ -3824,16 +3824,16 @@ Papa ?
 
 886
 01:33:45,000 --> 01:33:47,500
-Il faut absolument que tu voies ça !
+Il faut absolument que tu voies ï¿½a !
 
 887
 01:33:52,600 --> 01:33:54,700
-- Lève-toi !
+- Lï¿½ve-toi !
 - Pourquoi ?
 
 888
 01:33:54,900 --> 01:33:57,300
-J'ai quelque chose à te montrer !
+J'ai quelque chose ï¿½ te montrer !
 
 889
 01:34:05,100 --> 01:34:07,300
@@ -3845,11 +3845,11 @@ Je ne vois que nous.
 
 891
 01:34:12,200 --> 01:34:14,100
-Regarde bien. Mets-toi là.
+Regarde bien. Mets-toi lï¿½.
 
 892
 01:34:15,800 --> 01:34:17,700
-Là. Tu les vois, non ?
+Lï¿½. Tu les vois, non ?
 
 893
 01:34:18,000 --> 01:34:19,300
@@ -3857,7 +3857,7 @@ C'est moi !
 
 894
 01:34:19,600 --> 01:34:21,400
-Mais je suis Préfet.
+Mais je suis Prï¿½fet.
 
 895
 01:34:22,100 --> 01:34:24,300
@@ -3873,11 +3873,11 @@ Je suis capitaine !
 
 898
 01:34:30,100 --> 01:34:31,800
-J'ai fière allure.
+J'ai fiï¿½re allure.
 
 899
 01:34:34,200 --> 01:34:36,700
-Tu crois que ça montre l'avenir ?
+Tu crois que ï¿½a montre l'avenir ?
 
 900
 01:34:37,300 --> 01:34:40,900
@@ -3886,7 +3886,7 @@ Mes parents sont morts.
 
 901
 01:35:05,400 --> 01:35:07,100
-Tu es encore là ?
+Tu es encore lï¿½ ?
 
 902
 01:35:10,500 --> 01:35:12,800
@@ -3894,12 +3894,12 @@ Comme tant d'autres avant toi...
 
 903
 01:35:13,100 --> 01:35:16,100
-tu as découvert les délices
-du Miroir du Riséd ?
+tu as dï¿½couvert les dï¿½lices
+du Miroir du Risï¿½d ?
 
 904
 01:35:17,700 --> 01:35:21,200
-Tu as sûrement compris
+Tu as sï¿½rement compris
 quels sont ses pouvoirs.
 
 905
@@ -3913,7 +3913,7 @@ Le plus heureux des hommes...
 907
 01:35:28,600 --> 01:35:32,100
 se regarderait dans le miroir
-et n'y verrait que lui-même...
+et n'y verrait que lui-mï¿½me...
 
 908
 01:35:32,400 --> 01:35:33,600
@@ -3942,8 +3942,8 @@ Il ne montre rien d'autre...
 
 914
 01:35:46,600 --> 01:35:51,200
-que ce que notre cœur désire
-profondément et désespérément.
+que ce que notre cï¿½ur dï¿½sire
+profondï¿½ment et dï¿½sespï¿½rï¿½ment.
 
 915
 01:35:52,700 --> 01:35:55,800
@@ -3952,7 +3952,7 @@ ta famille...
 
 916
 01:35:57,600 --> 01:36:00,700
-tu la vois apparaître à tes côtés.
+tu la vois apparaï¿½tre ï¿½ tes cï¿½tï¿½s.
 
 917
 01:36:01,700 --> 01:36:03,700
@@ -3964,11 +3964,11 @@ Ce miroir ne nous apporte...
 
 919
 01:36:08,600 --> 01:36:11,100
-ni la connaissance ni la vérité.
+ni la connaissance ni la vï¿½ritï¿½.
 
 920
 01:36:13,600 --> 01:36:16,700
-Des hommes ont dépéri devant lui...
+Des hommes ont dï¿½pï¿½ri devant lui...
 
 921
 01:36:16,900 --> 01:36:18,600
@@ -3976,8 +3976,8 @@ ou sont devenus fous.
 
 922
 01:36:20,600 --> 01:36:24,000
-Voilà pourquoi, demain,
-il sera déménagé ailleurs.
+Voilï¿½ pourquoi, demain,
+il sera dï¿½mï¿½nagï¿½ ailleurs.
 
 923
 01:36:25,000 --> 01:36:26,700
@@ -3985,12 +3985,12 @@ Et je te demande instamment...
 
 924
 01:36:27,800 --> 01:36:30,800
-de ne jamais aller à sa recherche.
+de ne jamais aller ï¿½ sa recherche.
 
 925
 01:36:32,600 --> 01:36:35,400
 Il n'est pas bon
-de se réfugier dans les rêves...
+de se rï¿½fugier dans les rï¿½ves...
 
 926
 01:36:36,100 --> 01:36:38,300
@@ -3998,27 +3998,27 @@ et d'oublier de vivre.
 
 927
 01:37:33,900 --> 01:37:35,800
-Je vous ai mal aiguillés.
+Je vous ai mal aiguillï¿½s.
 
 928
 01:37:36,100 --> 01:37:38,300
-Que j'ai été bête !
+Que j'ai ï¿½tï¿½ bï¿½te !
 
 929
 01:37:39,700 --> 01:37:42,000
-J'avais sorti ça pour me distraire.
+J'avais sorti ï¿½a pour me distraire.
 
 930
 01:37:43,100 --> 01:37:44,800
-C'est distrayant, ça ?
+C'est distrayant, ï¿½a ?
 
 931
 01:37:49,500 --> 01:37:51,800
-Tout est là-dedans.
+Tout est lï¿½-dedans.
 
 932
 01:37:52,100 --> 01:37:55,900
-Flamel est le seul à avoir fabriqué
+Flamel est le seul ï¿½ avoir fabriquï¿½
 la Pierre Philosophale.
 
 933
@@ -4031,12 +4031,12 @@ Vous ne lisez jamais ?
 
 935
 01:38:01,500 --> 01:38:05,300
-"C'est une substance légendaire
-aux pouvoirs étonnants.
+"C'est une substance lï¿½gendaire
+aux pouvoirs ï¿½tonnants.
 
 936
 01:38:06,200 --> 01:38:10,400
-Elle change tout métal en or
+Elle change tout mï¿½tal en or
 et produit l'Elixir de Vie...
 
 937
@@ -4046,7 +4046,7 @@ qui rend immortel."
 938
 01:38:13,000 --> 01:38:15,200
 - Immortel ?
-- Ça signifie qu'on ne meurt pas.
+- ï¿½a signifie qu'on ne meurt pas.
 
 939
 01:38:15,500 --> 01:38:16,400
@@ -4058,17 +4058,17 @@ Je sais !
 
 941
 01:38:21,300 --> 01:38:24,500
-appartient à M. Flamel,
+appartient ï¿½ M. Flamel,
 l'illustre alchimiste...
 
 942
 01:38:24,900 --> 01:38:28,400
-qui a fêté, l'an dernier,
-son 665ème anniversaire."
+qui a fï¿½tï¿½, l'an dernier,
+son 665ï¿½me anniversaire."
 
 943
 01:38:30,300 --> 01:38:32,200
-Voilà ce que garde Touffu, au 3ème.
+Voilï¿½ ce que garde Touffu, au 3ï¿½me.
 
 944
 01:38:32,500 --> 01:38:35,200
@@ -4077,7 +4077,7 @@ La Pierre Philosophale.
 
 945
 01:38:54,400 --> 01:38:57,900
-Sans vouloir être impoli,
+Sans vouloir ï¿½tre impoli,
 je suis pas d'humeur.
 
 946
@@ -4092,7 +4092,7 @@ Rogue veut la voler.
 948
 01:39:07,400 --> 01:39:10,500
 Rogue ?
-Mince alors, vous remettez ça ?
+Mince alors, vous remettez ï¿½a ?
 
 949
 01:39:11,000 --> 01:39:13,600
@@ -4102,7 +4102,7 @@ mais on ignore pourquoi.
 950
 01:39:14,100 --> 01:39:17,000
 Rogue est l'un des professeurs
-qui la protègent.
+qui la protï¿½gent.
 
 951
 01:39:17,300 --> 01:39:18,600
@@ -4124,7 +4124,7 @@ Attendez. L'un des professeurs ?
 955
 01:39:26,300 --> 01:39:30,000
 Evidemment !
-Autre chose protège la Pierre.
+Autre chose protï¿½ge la Pierre.
 
 956
 01:39:30,400 --> 01:39:33,000
@@ -4133,7 +4133,7 @@ Autre chose protège la Pierre.
 
 957
 01:39:33,300 --> 01:39:35,700
-Sacrée perte de temps, à mon avis.
+Sacrï¿½e perte de temps, ï¿½ mon avis.
 
 958
 01:39:36,500 --> 01:39:38,600
@@ -4142,16 +4142,16 @@ Personne ne peut passer Touffu.
 959
 01:39:38,900 --> 01:39:42,200
 Personne a la recette,
-à part Dumbledore et moi.
+ï¿½ part Dumbledore et moi.
 
 960
 01:39:42,800 --> 01:39:44,900
-J'aurais pas dû vous dire ça.
+J'aurais pas dï¿½ vous dire ï¿½a.
 
 961
 01:40:01,100 --> 01:40:04,200
-- C'est quoi ça ?
-- Ça ? C'est...
+- C'est quoi ï¿½a ?
+- ï¿½a ? C'est...
 
 962
 01:40:05,500 --> 01:40:07,200
@@ -4159,16 +4159,16 @@ Moi, je sais.
 
 963
 01:40:07,900 --> 01:40:10,200
-Où l'avez-vous trouvé ?
+Oï¿½ l'avez-vous trouvï¿½ ?
 
 964
 01:40:10,700 --> 01:40:13,600
-Je l'ai gagné.
-Un étranger rencontré au pub.
+Je l'ai gagnï¿½.
+Un ï¿½tranger rencontrï¿½ au pub.
 
 965
 01:40:14,200 --> 01:40:16,900
-Il semblait ravi de s'en débarrasser.
+Il semblait ravi de s'en dï¿½barrasser.
 
 966
 01:40:40,500 --> 01:40:41,500
@@ -4181,11 +4181,11 @@ un dragon ?
 968
 01:40:45,600 --> 01:40:48,300
 Pas un simple dragon.
-Un Norvégien à crête.
+Un Norvï¿½gien ï¿½ crï¿½te.
 
 969
 01:40:49,600 --> 01:40:52,300
-Mon frère les étudie, en Roumanie.
+Mon frï¿½re les ï¿½tudie, en Roumanie.
 
 970
 01:40:52,600 --> 01:40:53,900
@@ -4193,7 +4193,7 @@ Superbe, hein ?
 
 971
 01:40:54,400 --> 01:40:56,800
-Quel amour ! Il reconnaît sa maman.
+Quel amour ! Il reconnaï¿½t sa maman.
 
 972
 01:40:58,300 --> 01:40:59,800
@@ -4213,11 +4213,11 @@ Pas vrai, Norbert ?
 
 976
 01:41:14,900 --> 01:41:16,700
-Faudra le dresser, bien sûr.
+Faudra le dresser, bien sï¿½r.
 
 977
 01:41:21,600 --> 01:41:22,600
-Qui est là ?
+Qui est lï¿½ ?
 
 978
 01:41:25,400 --> 01:41:26,400
@@ -4225,11 +4225,11 @@ Malefoy.
 
 979
 01:41:31,600 --> 01:41:33,500
-Hagrid rêvait d'un dragon.
+Hagrid rï¿½vait d'un dragon.
 
 980
 01:41:33,700 --> 01:41:36,000
-Il me l'a dit quand je l'ai rencontré.
+Il me l'a dit quand je l'ai rencontrï¿½.
 
 981
 01:41:36,600 --> 01:41:38,000
@@ -4243,7 +4243,7 @@ C'est de la folie.
 983
 01:41:41,900 --> 01:41:44,200
 - C'est grave ?
-- Très grave.
+- Trï¿½s grave.
 
 984
 01:41:45,300 --> 01:41:46,400
@@ -4251,16 +4251,16 @@ Bonsoir.
 
 985
 01:41:51,000 --> 01:41:53,400
-Rien, je répète, rien...
+Rien, je rï¿½pï¿½te, rien...
 
 986
 01:41:54,200 --> 01:41:57,500
-n'autorise un élève à déambuler,
-la nuit, dans l'école.
+n'autorise un ï¿½lï¿½ve ï¿½ dï¿½ambuler,
+la nuit, dans l'ï¿½cole.
 
 987
 01:41:57,800 --> 01:42:00,200
-En conséquence, comme punition...
+En consï¿½quence, comme punition...
 
 988
 01:42:00,900 --> 01:42:02,700
@@ -4273,7 +4273,7 @@ En conséquence, comme punition...
 
 990
 01:42:06,400 --> 01:42:08,700
-Et pour éviter toute récidive...
+Et pour ï¿½viter toute rï¿½cidive...
 
 991
 01:42:09,000 --> 01:42:11,500
@@ -4282,7 +4282,7 @@ vous serez tous les quatre en retenue.
 992
 01:42:13,100 --> 01:42:15,800
 Pardon, professeur,
-peut-être ai-je mal compris.
+peut-ï¿½tre ai-je mal compris.
 
 993
 01:42:16,300 --> 01:42:18,600
@@ -4295,7 +4295,7 @@ Vous avez bien entendu.
 995
 01:42:21,700 --> 01:42:26,000
 Si louables que soient vos intentions,
-vous n'étiez pas couché.
+vous n'ï¿½tiez pas couchï¿½.
 
 996
 01:42:27,100 --> 01:42:29,800
@@ -4304,7 +4304,7 @@ en retenue.
 
 997
 01:42:41,300 --> 01:42:44,000
-Hélas, on a aboli
+Hï¿½las, on a aboli
 les anciennes punitions.
 
 998
@@ -4318,16 +4318,16 @@ Les hurlements me manquent.
 
 1000
 01:42:55,700 --> 01:42:58,600
-Vous serez consignés avec Hagrid,
+Vous serez consignï¿½s avec Hagrid,
 ce soir.
 
 1001
 01:42:59,100 --> 01:43:01,300
-Il a un petit travail à faire...
+Il a un petit travail ï¿½ faire...
 
 1002
 01:43:01,600 --> 01:43:03,500
-dans la Forêt Interdite.
+dans la Forï¿½t Interdite.
 
 1003
 01:43:06,700 --> 01:43:08,000
@@ -4336,7 +4336,7 @@ De vrais vauriens !
 1004
 01:43:11,600 --> 01:43:14,400
 Il ne s'agit pas encore
-de ce satané dragon ?
+de ce satanï¿½ dragon ?
 
 1005
 01:43:18,800 --> 01:43:20,200
@@ -4344,22 +4344,22 @@ Norbert est parti.
 
 1006
 01:43:20,900 --> 01:43:24,300
-Dumbledore l'a envoyé en Roumanie,
+Dumbledore l'a envoyï¿½ en Roumanie,
 dans une colonie.
 
 1007
 01:43:24,900 --> 01:43:27,900
 C'est bien.
-Il sera avec ses congénères.
+Il sera avec ses congï¿½nï¿½res.
 
 1008
 01:43:28,300 --> 01:43:32,800
 Mais s'il aime pas la Roumanie ?
-Si les autres dragons l'embêtent ?
+Si les autres dragons l'embï¿½tent ?
 
 1009
 01:43:33,500 --> 01:43:34,800
-C'est encore un bébé.
+C'est encore un bï¿½bï¿½.
 
 1010
 01:43:35,700 --> 01:43:38,000
@@ -4367,20 +4367,20 @@ Ressaisissez-vous, mon vieux !
 
 1011
 01:43:38,300 --> 01:43:40,700
-Vous allez dans la Forêt,
+Vous allez dans la Forï¿½t,
 je vous signale.
 
 1012
 01:43:41,100 --> 01:43:42,900
-Il faut être vigilant.
+Il faut ï¿½tre vigilant.
 
 1013
 01:43:43,600 --> 01:43:44,700
-La Forêt ?
+La Forï¿½t ?
 
 1014
 01:43:45,000 --> 01:43:47,900
-Je croyais que c'était une blague.
+Je croyais que c'ï¿½tait une blague.
 Impossible.
 
 1015
@@ -4417,7 +4417,7 @@ Qu'est-ce que c'est ?
 
 1023
 01:44:52,700 --> 01:44:55,000
-C'est pour ça qu'on est là.
+C'est pour ï¿½a qu'on est lï¿½.
 Vous voyez ?
 
 1024
@@ -4426,19 +4426,19 @@ C'est du sang de licorne.
 
 1025
 01:44:59,600 --> 01:45:01,800
-J'en ai trouvé une morte, l'autre jour.
+J'en ai trouvï¿½ une morte, l'autre jour.
 
 1026
 01:45:04,100 --> 01:45:06,300
-Celle-ci est grièvement blessée.
+Celle-ci est griï¿½vement blessï¿½e.
 
 1027
 01:45:16,400 --> 01:45:18,000
-On est chargés...
+On est chargï¿½s...
 
 1028
 01:45:18,900 --> 01:45:20,400
-de retrouver la pauvre bête.
+de retrouver la pauvre bï¿½te.
 
 1029
 01:45:20,600 --> 01:45:22,300
@@ -4455,11 +4455,11 @@ Harry, avec Malefoy.
 
 1032
 01:45:32,700 --> 01:45:34,900
-Je te préviens, c'est un trouillard.
+Je te prï¿½viens, c'est un trouillard.
 
 1033
 01:45:40,600 --> 01:45:44,300
-Je le dirai à mon père !
+Je le dirai ï¿½ mon pï¿½re !
 C'est un travail de larbin.
 
 1034
@@ -4497,7 +4497,7 @@ Tu es connu, ici.
 
 1042
 01:47:44,500 --> 01:47:46,800
-La Forêt n'est pas sûre, ces temps-ci.
+La Forï¿½t n'est pas sï¿½re, ces temps-ci.
 
 1043
 01:47:47,400 --> 01:47:48,500
@@ -4505,11 +4505,11 @@ Surtout pour toi.
 
 1044
 01:47:48,900 --> 01:47:51,200
-Mais quelle était cette chose ?
+Mais quelle ï¿½tait cette chose ?
 
 1045
 01:47:51,700 --> 01:47:53,600
-Une créature monstrueuse.
+Une crï¿½ature monstrueuse.
 
 1046
 01:47:54,400 --> 01:47:57,000
@@ -4523,20 +4523,20 @@ permet de vivre...
 
 1048
 01:48:00,200 --> 01:48:02,400
-même si l'on frôle la mort.
+mï¿½me si l'on frï¿½le la mort.
 
 1049
 01:48:03,100 --> 01:48:05,200
-Mais le prix à payer est terrible.
+Mais le prix ï¿½ payer est terrible.
 
 1050
 01:48:05,500 --> 01:48:07,600
-On a tué un être si pur...
+On a tuï¿½ un ï¿½tre si pur...
 
 1051
 01:48:08,300 --> 01:48:11,200
-qu'à l'instant où le sang
-touche les lèvres...
+qu'ï¿½ l'instant oï¿½ le sang
+touche les lï¿½vres...
 
 1052
 01:48:11,400 --> 01:48:14,800
@@ -4549,7 +4549,7 @@ Qui voudrait d'une telle vie ?
 
 1054
 01:48:17,400 --> 01:48:19,000
-Tu n'as pas d'idée ?
+Tu n'as pas d'idï¿½e ?
 
 1055
 01:48:19,600 --> 01:48:21,300
@@ -4557,7 +4557,7 @@ Vous voulez dire...
 
 1056
 01:48:22,100 --> 01:48:24,400
-que ce qui a tué la licorne...
+que ce qui a tuï¿½ la licorne...
 
 1057
 01:48:24,800 --> 01:48:26,500
@@ -4565,11 +4565,11 @@ et bu son sang...
 
 1058
 01:48:27,500 --> 01:48:28,800
-c'était Voldemort ?
+c'ï¿½tait Voldemort ?
 
 1059
 01:48:28,900 --> 01:48:32,500
-Sais-tu ce qui est caché dans l'école,
+Sais-tu ce qui est cachï¿½ dans l'ï¿½cole,
 en ce moment ?
 
 1060
@@ -4582,7 +4582,7 @@ Bonsoir, Firenze.
 
 1062
 01:48:42,100 --> 01:48:44,300
-Tu as rencontré le jeune Potter.
+Tu as rencontrï¿½ le jeune Potter.
 
 1063
 01:48:45,000 --> 01:48:46,000
@@ -4600,12 +4600,12 @@ Bonne chance.
 1066
 01:49:05,000 --> 01:49:09,000
 Tu veux dire que Tu-Sais-Qui
-est dans la Forêt ?
+est dans la Forï¿½t ?
 
 1067
 01:49:09,400 --> 01:49:12,200
 Mais il est affaibli.
-Il survit grâce aux licornes.
+Il survit grï¿½ce aux licornes.
 
 1068
 01:49:12,500 --> 01:49:15,200
@@ -4615,7 +4615,7 @@ On a tout faux.
 1069
 01:49:15,500 --> 01:49:19,700
 Rogue ne veut pas la Pierre
-pour lui-même, mais pour Voldemort.
+pour lui-mï¿½me, mais pour Voldemort.
 
 1070
 01:49:20,000 --> 01:49:22,900
@@ -4641,11 +4641,11 @@ de te tuer ?
 1075
 01:49:33,800 --> 01:49:36,000
 S'il avait pu,
-il m'aurait tué ce soir.
+il m'aurait tuï¿½ ce soir.
 
 1076
 01:49:37,400 --> 01:49:40,900
-Dire que je m'inquiétais
+Dire que je m'inquiï¿½tais
 pour mon examen de potions.
 
 1077
@@ -4663,20 +4663,20 @@ Dumbledore.
 
 1080
 01:49:52,800 --> 01:49:55,600
-Tant qu'il est là, tu ne risques rien.
+Tant qu'il est lï¿½, tu ne risques rien.
 
 1081
 01:49:56,100 --> 01:49:59,400
-Tant qu'il est là, tu es intouchable.
+Tant qu'il est lï¿½, tu es intouchable.
 
 1082
 01:50:05,900 --> 01:50:09,100
 Je croyais les examens
-de fin d'année terrifiants...
+de fin d'annï¿½e terrifiants...
 
 1083
 01:50:09,500 --> 01:50:11,200
-mais j'ai trouvé ça amusant.
+mais j'ai trouvï¿½ ï¿½a amusant.
 
 1084
 01:50:11,600 --> 01:50:13,100
@@ -4684,7 +4684,7 @@ Parle pour toi.
 
 1085
 01:50:13,400 --> 01:50:14,800
-Ça va, Harry ?
+ï¿½a va, Harry ?
 
 1086
 01:50:15,500 --> 01:50:16,900
@@ -4692,16 +4692,16 @@ Ma cicatrice.
 
 1087
 01:50:17,200 --> 01:50:18,600
-Ça me brûle.
+ï¿½a me brï¿½le.
 
 1088
 01:50:19,500 --> 01:50:22,100
-- Ça t'est déjà arrivé.
-- Pas comme ça.
+- ï¿½a t'est dï¿½jï¿½ arrivï¿½.
+- Pas comme ï¿½a.
 
 1089
 01:50:22,300 --> 01:50:23,600
-Va voir l'infirmière.
+Va voir l'infirmiï¿½re.
 
 1090
 01:50:23,800 --> 01:50:26,900
@@ -4710,31 +4710,31 @@ Un danger nous guette.
 
 1091
 01:50:34,800 --> 01:50:37,200
-- Mais bien sûr.
+- Mais bien sï¿½r.
 - Qu'y a-t-il ?
 
 1092
 01:50:37,500 --> 01:50:41,100
 Bizarre, non ?
-Hagrid rêve d'avoir un dragon...
+Hagrid rï¿½ve d'avoir un dragon...
 
 1093
 01:50:41,500 --> 01:50:43,900
 et comme par hasard,
-un étranger en a un.
+un ï¿½tranger en a un.
 
 1094
 01:50:44,200 --> 01:50:47,300
-Tout le monde a un œuf de dragon
+Tout le monde a un ï¿½uf de dragon
 dans la poche ?
 
 1095
 01:50:47,600 --> 01:50:49,500
-Pourquoi j'y ai pas pensé plus tôt ?
+Pourquoi j'y ai pas pensï¿½ plus tï¿½t ?
 
 1096
 01:50:55,500 --> 01:50:59,000
-Qui vous a donné l'œuf ?
+Qui vous a donnï¿½ l'ï¿½uf ?
 A quoi ressemblait-il ?
 
 1097
@@ -4744,15 +4744,15 @@ il avait un capuchon.
 
 1098
 01:51:02,200 --> 01:51:04,500
-Vous avez parlé à cet étranger ?
+Vous avez parlï¿½ ï¿½ cet ï¿½tranger ?
 
 1099
 01:51:06,400 --> 01:51:08,900
-Il m'a demandé ce que je cherchais.
+Il m'a demandï¿½ ce que je cherchais.
 
 1100
 01:51:09,100 --> 01:51:11,700
-J'ai dit : " Après Touffu, un dragon...
+J'ai dit : " Aprï¿½s Touffu, un dragon...
 
 1101
 01:51:12,000 --> 01:51:13,300
@@ -4760,7 +4760,7 @@ ce sera facile."
 
 1102
 01:51:13,500 --> 01:51:15,400
-Il s'est intéressé à Touffu ?
+Il s'est intï¿½ressï¿½ ï¿½ Touffu ?
 
 1103
 01:51:15,900 --> 01:51:17,600
@@ -4768,11 +4768,11 @@ Evidemment.
 
 1104
 01:51:18,200 --> 01:51:20,100
-C'est rare, un chien à trois têtes...
+C'est rare, un chien ï¿½ trois tï¿½tes...
 
 1105
 01:51:20,400 --> 01:51:22,300
-même si on est dans le métier.
+mï¿½me si on est dans le mï¿½tier.
 
 1106
 01:51:22,400 --> 01:51:24,000
@@ -4780,7 +4780,7 @@ Mais j'ai dit :
 
 1107
 01:51:24,300 --> 01:51:27,100
-"Les bêtes,
+"Les bï¿½tes,
 il suffit de savoir les calmer !
 
 1108
@@ -4797,7 +4797,7 @@ J'en ai trop dit.
 
 1111
 01:51:38,300 --> 01:51:40,000
-Où vous allez ?
+Oï¿½ vous allez ?
 
 1112
 01:51:47,500 --> 01:51:50,200
@@ -4806,11 +4806,11 @@ Tout de suite !
 
 1113
 01:51:50,800 --> 01:51:52,600
-Je regrette, il n'est pas là.
+Je regrette, il n'est pas lï¿½.
 
 1114
 01:51:53,700 --> 01:51:57,600
-Il a reçu un hibou urgent du Ministère
+Il a reï¿½u un hibou urgent du Ministï¿½re
 et est parti pour Londres.
 
 1115
@@ -4826,7 +4826,7 @@ Il s'agit de la Pierre Philosophale.
 1117
 01:52:09,700 --> 01:52:13,700
 J'ignore comment vous en connaissez
-l'existence, mais elle est bien gardée.
+l'existence, mais elle est bien gardï¿½e.
 
 1118
 01:52:15,100 --> 01:52:18,100
@@ -4835,11 +4835,11 @@ En silence.
 
 1119
 01:52:27,700 --> 01:52:29,600
-L'étranger qu'a vu Hagrid...
+L'ï¿½tranger qu'a vu Hagrid...
 
 1120
 01:52:29,900 --> 01:52:33,100
-c'était Rogue.
+c'ï¿½tait Rogue.
 Il sait comment passer Touffu.
 
 1121
@@ -4854,7 +4854,7 @@ ces trois jeunes Gryffondor...
 
 1123
 01:52:42,700 --> 01:52:46,200
-à l'intérieur par un temps pareil ?
+ï¿½ l'intï¿½rieur par un temps pareil ?
 
 1124
 01:52:51,800 --> 01:52:53,200
@@ -4887,7 +4887,7 @@ Trevor !
 
 1131
 01:53:37,800 --> 01:53:39,500
-T'as rien à faire ici.
+T'as rien ï¿½ faire ici.
 
 1132
 01:53:40,500 --> 01:53:41,500
@@ -4903,7 +4903,7 @@ Ecoute, Neville, on allait...
 
 1135
 01:53:48,000 --> 01:53:49,700
-Je vous en empêcherai.
+Je vous en empï¿½cherai.
 
 1136
 01:53:50,300 --> 01:53:52,500
@@ -4915,7 +4915,7 @@ Je me battrai.
 
 1138
 01:53:55,800 --> 01:53:59,100
-Je suis désolée pour toi.
+Je suis dï¿½solï¿½e pour toi.
 <i>Petrificus Totalus.</i>
 
 1139
@@ -4925,7 +4925,7 @@ Tu es un peu effrayante, parfois.
 1140
 01:54:09,800 --> 01:54:14,000
 Tu t'en rends compte ?
-Douée, mais effrayante.
+Douï¿½e, mais effrayante.
 
 1141
 01:54:15,400 --> 01:54:16,400
@@ -4937,7 +4937,7 @@ C'est pour ton bien.
 
 1143
 01:54:27,500 --> 01:54:29,300
-Tu m'as marché sur le pied.
+Tu m'as marchï¿½ sur le pied.
 
 1144
 01:54:35,500 --> 01:54:36,700
@@ -4953,11 +4953,11 @@ Il ronfle.
 
 1147
 01:54:58,000 --> 01:54:59,600
-Rogue est passé.
+Rogue est passï¿½.
 
 1148
 01:55:00,900 --> 01:55:02,900
-Il a ensorcelé la harpe.
+Il a ensorcelï¿½ la harpe.
 
 1149
 01:55:05,200 --> 01:55:06,800
@@ -4965,7 +4965,7 @@ Quelle haleine atroce !
 
 1150
 01:55:10,800 --> 01:55:12,700
-Il faut déplacer sa patte.
+Il faut dï¿½placer sa patte.
 
 1151
 01:55:19,500 --> 01:55:20,500
@@ -4978,11 +4978,11 @@ Attendez mon signal.
 
 1153
 01:55:47,500 --> 01:55:51,200
-Si ça tourne mal, sauvez-vous.
+Si ï¿½a tourne mal, sauvez-vous.
 
 1154
 01:55:53,300 --> 01:55:56,400
-Ça ne vous paraît pas...
+ï¿½a ne vous paraï¿½t pas...
 bien silencieux ?
 
 1155
@@ -5003,12 +5003,12 @@ Heureusement qu'il y a cette plante.
 
 1159
 01:56:46,200 --> 01:56:49,000
-Arrêtez de bouger.
+Arrï¿½tez de bouger.
 C'est un Filet du Diable.
 
 1160
 01:56:49,300 --> 01:56:50,500
-Détendez-vous.
+Dï¿½tendez-vous.
 
 1161
 01:56:50,800 --> 01:56:53,000
@@ -5017,7 +5017,7 @@ Sinon, il vous tuera plus vite.
 1162
 01:56:53,400 --> 01:56:56,400
 Plus vite ?
-Je suis complètement détendu !
+Je suis complï¿½tement dï¿½tendu !
 
 1163
 01:57:00,600 --> 01:57:01,700
@@ -5029,11 +5029,11 @@ Qu'est-ce qu'on fait ?
 
 1165
 01:57:03,900 --> 01:57:05,500
-Détendez-vous !
+Dï¿½tendez-vous !
 
 1166
 01:57:06,300 --> 01:57:07,600
-Hermione, où es-tu ?
+Hermione, oï¿½ es-tu ?
 
 1167
 01:57:08,400 --> 01:57:10,700
@@ -5041,11 +5041,11 @@ Faites ce que je dis ! Ayez confiance.
 
 1168
 01:57:17,700 --> 01:57:18,700
-Ça va ?
+ï¿½a va ?
 
 1169
 01:57:21,800 --> 01:57:23,200
-Il n'est pas détendu.
+Il n'est pas dï¿½tendu.
 
 1170
 01:57:23,400 --> 01:57:24,600
@@ -5071,11 +5071,11 @@ A l'ombre est vivace
 1175
 01:57:35,500 --> 01:57:37,400
 Mais au soleil grimace"
-C'est ça !
+C'est ï¿½a !
 
 1176
 01:57:37,600 --> 01:57:39,600
-Il déteste la lumière !
+Il dï¿½teste la lumiï¿½re !
 
 1177
 01:57:40,100 --> 01:57:41,400
@@ -5083,7 +5083,7 @@ Il déteste la lumière !
 
 1178
 01:57:55,600 --> 01:57:57,400
-Une chance, on n'a pas paniqué.
+Une chance, on n'a pas paniquï¿½.
 
 1179
 01:57:58,600 --> 01:58:01,200
@@ -5100,7 +5100,7 @@ Je ne sais pas.
 
 1182
 01:58:07,900 --> 01:58:09,200
-Ça fait un bruit d'ailes.
+ï¿½a fait un bruit d'ailes.
 
 1183
 01:58:22,500 --> 01:58:25,600
@@ -5110,7 +5110,7 @@ Je ne connais pas ces oiseaux.
 1184
 01:58:26,100 --> 01:58:29,000
 C'est pas des oiseaux,
-c'est des clés.
+c'est des clï¿½s.
 
 1185
 01:58:30,000 --> 01:58:32,100
@@ -5118,7 +5118,7 @@ L'une d'elles ouvre cette porte.
 
 1186
 01:58:37,000 --> 01:58:38,800
-Qu'est-ce que ça veut dire ?
+Qu'est-ce que ï¿½a veut dire ?
 
 1187
 01:58:39,200 --> 01:58:40,500
@@ -5134,7 +5134,7 @@ Bizarre.
 
 1190
 01:58:55,000 --> 01:58:57,100
-Ça coûte rien d'essayer.
+ï¿½a coï¿½te rien d'essayer.
 
 1191
 01:58:57,600 --> 01:59:00,700
@@ -5143,16 +5143,16 @@ Il y en a des centaines.
 
 1192
 01:59:01,000 --> 01:59:03,000
-Il faut une grosse clé ancienne.
+Il faut une grosse clï¿½ ancienne.
 
 1193
 01:59:03,300 --> 01:59:05,000
-Rouillée, comme la poignée.
+Rouillï¿½e, comme la poignï¿½e.
 
 1194
 01:59:05,300 --> 01:59:08,100
 Je la vois !
-Elle a une aile cassée.
+Elle a une aile cassï¿½e.
 
 1195
 01:59:12,100 --> 01:59:13,100
@@ -5174,40 +5174,40 @@ tu peux.
 1199
 01:59:22,100 --> 01:59:24,300
 Tu es le plus jeune attrapeur
-du siècle.
+du siï¿½cle.
 
 1200
 01:59:42,400 --> 01:59:44,200
-Ça complique les choses.
+ï¿½a complique les choses.
 
 1201
 02:00:06,600 --> 02:00:08,400
-Attrape la clé !
+Attrape la clï¿½ !
 
 1202
 02:00:13,200 --> 02:00:14,500
-Dépêche-toi !
+Dï¿½pï¿½che-toi !
 
 1203
 02:00:47,500 --> 02:00:48,500
-Je n'aime pas ça.
+Je n'aime pas ï¿½a.
 
 1204
 02:00:50,400 --> 02:00:52,100
-Je n'aime pas ça du tout.
+Je n'aime pas ï¿½a du tout.
 
 1205
 02:00:52,400 --> 02:00:55,100
-Où sommes-nous ?
-Dans un cimetière.
+Oï¿½ sommes-nous ?
+Dans un cimetiï¿½re.
 
 1206
 02:00:55,900 --> 02:00:57,800
-C'est pas un cimetière.
+C'est pas un cimetiï¿½re.
 
 1207
 02:01:06,200 --> 02:01:07,500
-C'est un échiquier.
+C'est un ï¿½chiquier.
 
 1208
 02:01:21,000 --> 02:01:22,100
@@ -5219,7 +5219,7 @@ Qu'est-ce qu'on fait ?
 
 1210
 02:01:36,800 --> 02:01:40,000
-C'est évident.
+C'est ï¿½vident.
 On joue pour atteindre la porte.
 
 1211
@@ -5229,11 +5229,11 @@ Harry, tu te mets sur la case du fou.
 1212
 02:01:45,600 --> 02:01:48,700
 Hermione, tu seras la tour,
-côté reine.
+cï¿½tï¿½ reine.
 
 1213
 02:01:50,100 --> 02:01:51,300
-Quant à moi...
+Quant ï¿½ moi...
 
 1214
 02:01:51,800 --> 02:01:53,500
@@ -5257,7 +5257,7 @@ nous jouerons.
 
 1219
 02:02:24,100 --> 02:02:26,600
-Tu ne prétends pas que ce sera...
+Tu ne prï¿½tends pas que ce sera...
 
 1220
 02:02:27,700 --> 02:02:30,300
@@ -5265,7 +5265,7 @@ une vraie partie, version sorcier ?
 
 1221
 02:02:31,700 --> 02:02:33,500
-Toi, là-bas, d5 !
+Toi, lï¿½-bas, d5 !
 
 1222
 02:02:49,300 --> 02:02:50,800
@@ -5273,7 +5273,7 @@ Si, Hermione...
 
 1223
 02:02:51,100 --> 02:02:55,200
-une authentique partie d'échecs,
+une authentique partie d'ï¿½checs,
 version sorcier.
 
 1224
@@ -5291,12 +5291,12 @@ Pion en c3 !
 
 1227
 02:03:59,400 --> 02:04:03,800
-Quand j'aurai avancé,
+Quand j'aurai avancï¿½,
 la reine me prendra.
 
 1228
 02:04:04,700 --> 02:04:06,900
-Et tu pourras faire échec au roi.
+Et tu pourras faire ï¿½chec au roi.
 
 1229
 02:04:09,200 --> 02:04:11,900
@@ -5305,7 +5305,7 @@ Et tu pourras faire échec au roi.
 
 1230
 02:04:12,500 --> 02:04:15,200
-Non ! Il y a sûrement un autre moyen.
+Non ! Il y a sï¿½rement un autre moyen.
 
 1231
 02:04:15,500 --> 02:04:17,400
@@ -5339,11 +5339,11 @@ Echec et mat.
 1238
 02:06:15,700 --> 02:06:18,100
 Occupe-toi de Ron,
-puis va à la volière.
+puis va ï¿½ la voliï¿½re.
 
 1239
 02:06:18,400 --> 02:06:20,400
-Envoie un message à Dumbledore.
+Envoie un message ï¿½ Dumbledore.
 
 1240
 02:06:20,700 --> 02:06:21,900
@@ -5375,7 +5375,7 @@ Il y a plus important...
 
 1247
 02:06:40,300 --> 02:06:42,700
-L'amitié et le courage.
+L'amitiï¿½ et le courage.
 
 1248
 02:06:43,600 --> 02:06:45,700
@@ -5395,15 +5395,15 @@ C'est Rogue qui...
 
 1252
 02:07:30,600 --> 02:07:33,300
-Le coupable idéal, non ?
+Le coupable idï¿½al, non ?
 
 1253
 02:07:33,900 --> 02:07:36,000
-A côté de lui, qui soupçonnerait...
+A cï¿½tï¿½ de lui, qui soupï¿½onnerait...
 
 1254
 02:07:37,100 --> 02:07:39,800
-ce pauvre bègue
+ce pauvre bï¿½gue
 de professeur Quirrell ?
 
 1255
@@ -5413,12 +5413,12 @@ Mais l'autre jour...
 1256
 02:07:42,800 --> 02:07:45,700
 pendant le match,
-Rogue a essayé de me tuer.
+Rogue a essayï¿½ de me tuer.
 
 1257
 02:07:46,800 --> 02:07:49,400
 Non, cher enfant,
-c'est moi qui ai essayé.
+c'est moi qui ai essayï¿½.
 
 1258
 02:07:50,200 --> 02:07:52,400
@@ -5426,13 +5426,13 @@ Si la cape n'avait pas pris feu...
 
 1259
 02:07:52,800 --> 02:07:56,200
-et coupé mon contact visuel,
-j'aurais réussi.
+et coupï¿½ mon contact visuel,
+j'aurais rï¿½ussi.
 
 1260
 02:07:56,900 --> 02:07:59,700
-Malgré les exorcismes
-marmonnés par Rogue.
+Malgrï¿½ les exorcismes
+marmonnï¿½s par Rogue.
 
 1261
 02:08:00,200 --> 02:08:02,600
@@ -5444,21 +5444,21 @@ J'ai toujours vu en vous un danger.
 
 1263
 02:08:05,100 --> 02:08:06,500
-Surtout après Halloween.
+Surtout aprï¿½s Halloween.
 
 1264
 02:08:08,700 --> 02:08:11,900
-- Le troll, c'était vous ?
+- Le troll, c'ï¿½tait vous ?
 - Bravo, Potter.
 
 1265
 02:08:12,500 --> 02:08:15,300
-Rogue, hélas, n'était pas dupe.
+Rogue, hï¿½las, n'ï¿½tait pas dupe.
 
 1266
 02:08:16,200 --> 02:08:19,700
 Tandis que tous couraient aux cachots,
-il m'a devancé au 3ème.
+il m'a devancï¿½ au 3ï¿½me.
 
 1267
 02:08:22,000 --> 02:08:25,100
@@ -5486,7 +5486,7 @@ Que fait ce miroir ?
 
 1273
 02:08:41,900 --> 02:08:43,800
-J'y vois ce que je désire.
+J'y vois ce que je dï¿½sire.
 
 1274
 02:08:44,600 --> 02:08:46,800
@@ -5522,7 +5522,7 @@ Je serre la main de Dumbledore.
 
 1282
 02:09:43,700 --> 02:09:45,300
-J'ai gagné la Coupe.
+J'ai gagnï¿½ la Coupe.
 
 1283
 02:09:45,400 --> 02:09:46,700
@@ -5530,7 +5530,7 @@ J'ai gagné la Coupe.
 
 1284
 02:09:47,400 --> 02:09:48,800
-Dites la vérité !
+Dites la vï¿½ritï¿½ !
 
 1285
 02:09:49,200 --> 02:09:50,900
@@ -5542,11 +5542,11 @@ Que voyez-vous ?
 
 1287
 02:09:54,100 --> 02:09:55,700
-Maître, vous êtes trop faible.
+Maï¿½tre, vous ï¿½tes trop faible.
 
 1288
 02:09:55,900 --> 02:09:58,800
-<i>J'ai assez de forces pour ça.</i>
+<i>J'ai assez de forces pour ï¿½a.</i>
 
 1289
 02:10:18,200 --> 02:10:20,500
@@ -5562,7 +5562,7 @@ Voldemort.
 
 1292
 02:10:26,900 --> 02:10:28,800
-Tu vois où j'en suis ?
+Tu vois oï¿½ j'en suis ?
 
 1293
 02:10:29,800 --> 02:10:33,100
@@ -5591,7 +5591,7 @@ Mais quelque chose a ce pouvoir.
 1298
 02:10:49,500 --> 02:10:52,200
 Et cette chose
-se trouve fort à propos...
+se trouve fort ï¿½ propos...
 
 1299
 02:10:52,400 --> 02:10:54,200
@@ -5632,7 +5632,7 @@ Dis-moi...
 1308
 02:11:24,700 --> 02:11:28,000
 aimerais-tu revoir
-ta mère et ton père ?
+ta mï¿½re et ton pï¿½re ?
 
 1309
 02:11:28,700 --> 02:11:30,000
@@ -5645,11 +5645,11 @@ nous pouvons les faire revenir.
 1311
 02:11:34,100 --> 02:11:37,600
 Je ne demande qu'une chose
-en échange.
+en ï¿½change.
 
 1312
 02:11:45,500 --> 02:11:46,800
-C'est ça.
+C'est ï¿½a.
 
 1313
 02:11:49,600 --> 02:11:52,400
@@ -5661,7 +5661,7 @@ Il n'y a que le pouvoir...
 
 1315
 02:11:56,800 --> 02:12:00,000
-et les êtres trop faibles
+et les ï¿½tres trop faibles
 pour le convoiter.
 
 1316
@@ -5682,11 +5682,11 @@ Tue-le !
 
 1320
 02:12:39,100 --> 02:12:40,400
-Quel est ce sortilège ?
+Quel est ce sortilï¿½ge ?
 
 1321
 02:12:40,600 --> 02:12:42,500
-Lmbécile ! Prends la Pierre !
+Lmbï¿½cile ! Prends la Pierre !
 
 1322
 02:14:29,500 --> 02:14:31,100
@@ -5694,12 +5694,12 @@ Bonjour, Harry.
 
 1323
 02:14:34,200 --> 02:14:38,400
-- Des présents de tes admirateurs ?
+- Des prï¿½sents de tes admirateurs ?
 - Mes admirateurs ?
 
 1324
 02:14:39,000 --> 02:14:42,600
-Ce qui s'est passé
+Ce qui s'est passï¿½
 entre toi et le professeur Quirrell...
 
 1325
@@ -5708,13 +5708,13 @@ est un secret absolu.
 
 1326
 02:14:45,100 --> 02:14:48,300
-Alors, bien sûr,
-toute l'école est au courant.
+Alors, bien sï¿½r,
+toute l'ï¿½cole est au courant.
 
 1327
 02:14:53,300 --> 02:14:56,600
 Je vois que ton ami Ronald
-t'a épargné la peine...
+t'a ï¿½pargnï¿½ la peine...
 
 1328
 02:14:57,000 --> 02:14:58,700
@@ -5727,7 +5727,7 @@ Et Hermione ?
 
 1330
 02:15:02,400 --> 02:15:06,100
-Ça va. Tous les deux vont bien.
+ï¿½a va. Tous les deux vont bien.
 
 1331
 02:15:07,900 --> 02:15:10,400
@@ -5736,12 +5736,12 @@ Et Hermione ?
 
 1332
 02:15:10,900 --> 02:15:13,500
-La Pierre a été détruite.
+La Pierre a ï¿½tï¿½ dï¿½truite.
 
 1333
 02:15:14,200 --> 02:15:16,800
 Mon ami Nicolas et moi,
-nous avons bavardé...
+nous avons bavardï¿½...
 
 1334
 02:15:17,100 --> 02:15:20,900
@@ -5755,7 +5755,7 @@ Mais alors, Flamel va mourir, non ?
 1336
 02:15:28,500 --> 02:15:32,600
 Il a assez d'Elixir
-pour régler ses affaires.
+pour rï¿½gler ses affaires.
 
 1337
 02:15:34,100 --> 02:15:37,000
@@ -5763,7 +5763,7 @@ Mais, oui, il va mourir.
 
 1338
 02:15:37,700 --> 02:15:39,900
-Comment j'ai récupéré la Pierre ?
+Comment j'ai rï¿½cupï¿½rï¿½ la Pierre ?
 
 1339
 02:15:40,200 --> 02:15:42,700
@@ -5776,7 +5776,7 @@ Vois-tu...
 
 1341
 02:15:44,600 --> 02:15:46,100
-seul un être...
+seul un ï¿½tre...
 
 1342
 02:15:47,400 --> 02:15:52,500
@@ -5789,8 +5789,8 @@ pouvait se la procurer.
 
 1344
 02:15:57,100 --> 02:16:00,400
-C'est une de mes idées
-les plus géniales.
+C'est une de mes idï¿½es
+les plus gï¿½niales.
 
 1345
 02:16:00,700 --> 02:16:04,000
@@ -5820,11 +5820,11 @@ ne supportait pas que tu le touches ?
 
 1351
 02:16:28,400 --> 02:16:29,900
-A cause de ta mère.
+A cause de ta mï¿½re.
 
 1352
 02:16:30,700 --> 02:16:32,700
-Elle s'est sacrifiée pour toi.
+Elle s'est sacrifiï¿½e pour toi.
 
 1353
 02:16:33,500 --> 02:16:35,700
@@ -5836,7 +5836,7 @@ C'est une marque invisible.
 
 1355
 02:16:40,900 --> 02:16:43,300
-Elle est gravée dans ta chair.
+Elle est gravï¿½e dans ta chair.
 
 1356
 02:16:44,200 --> 02:16:45,600
@@ -5848,17 +5848,17 @@ L'amour.
 
 1358
 02:16:58,400 --> 02:17:01,700
-Dragées surprises de Bertie Crochue.
+Dragï¿½es surprises de Bertie Crochue.
 
 1359
 02:17:02,800 --> 02:17:06,800
 Enfant, j'en ai pris une
-au goût de vomi.
+au goï¿½t de vomi.
 
 1360
 02:17:07,800 --> 02:17:10,700
 Depuis ce jour,
-je ne cours plus après.
+je ne cours plus aprï¿½s.
 
 1361
 02:17:11,200 --> 02:17:13,600
@@ -5870,19 +5870,19 @@ avec un bon caramel.
 
 1363
 02:17:21,200 --> 02:17:22,400
-Hélas.
+Hï¿½las.
 
 1364
 02:17:23,200 --> 02:17:24,200
-Cérumen.
+Cï¿½rumen.
 
 1365
 02:17:40,800 --> 02:17:41,800
-Ça va, Ron ?
+ï¿½a va, Ron ?
 
 1366
 02:17:42,300 --> 02:17:43,800
-Très bien. Et toi ?
+Trï¿½s bien. Et toi ?
 
 1367
 02:17:46,700 --> 02:17:47,700
@@ -5894,7 +5894,7 @@ On ne peut mieux.
 
 1369
 02:18:06,200 --> 02:18:08,200
-Une autre année s'achève.
+Une autre annï¿½e s'achï¿½ve.
 
 1370
 02:18:09,300 --> 02:18:11,100
@@ -5902,15 +5902,15 @@ Le moment est venu...
 
 1371
 02:18:11,400 --> 02:18:13,700
-de décerner la Coupe.
+de dï¿½cerner la Coupe.
 
 1372
 02:18:14,000 --> 02:18:16,600
-Voici les résultats.
+Voici les rï¿½sultats.
 
 1373
 02:18:17,100 --> 02:18:19,200
-A la 4ème place, Gryffondor...
+A la 4ï¿½me place, Gryffondor...
 
 1374
 02:18:19,500 --> 02:18:21,200
@@ -5918,7 +5918,7 @@ avec 312 points.
 
 1375
 02:18:24,700 --> 02:18:26,400
-3ème place...
+3ï¿½me place...
 
 1376
 02:18:26,700 --> 02:18:30,100
@@ -5934,7 +5934,7 @@ Serdaigle, avec 426 points.
 
 1379
 02:18:48,300 --> 02:18:49,600
-Et à la 1ère place...
+Et ï¿½ la 1ï¿½re place...
 
 1380
 02:18:50,200 --> 02:18:52,700
@@ -5951,17 +5951,17 @@ Cependant...
 
 1383
 02:19:11,700 --> 02:19:15,200
-des événements récents
-doivent être pris en compte.
+des ï¿½vï¿½nements rï¿½cents
+doivent ï¿½tre pris en compte.
 
 1384
 02:19:15,900 --> 02:19:18,400
 J'ai quelques points
-de dernière minute...
+de derniï¿½re minute...
 
 1385
 02:19:18,800 --> 02:19:20,200
-à attribuer.
+ï¿½ attribuer.
 
 1386
 02:19:21,800 --> 02:19:24,500
@@ -5969,11 +5969,11 @@ A Mlle Hermione Granger...
 
 1387
 02:19:24,800 --> 02:19:27,500
-pour son calme et sa lucidité...
+pour son calme et sa luciditï¿½...
 
 1388
 02:19:27,900 --> 02:19:30,000
-quand d'autres étaient en péril...
+quand d'autres ï¿½taient en pï¿½ril...
 
 1389
 02:19:31,000 --> 02:19:31,900
@@ -5981,16 +5981,16 @@ quand d'autres étaient en péril...
 
 1390
 02:19:43,100 --> 02:19:46,100
-Ensuite, à M. Ronald Weasley...
+Ensuite, ï¿½ M. Ronald Weasley...
 
 1391
 02:19:47,300 --> 02:19:49,400
-pour la plus belle partie d'échecs...
+pour la plus belle partie d'ï¿½checs...
 
 1392
 02:19:49,600 --> 02:19:53,000
 que Poudlard
-ait connue depuis des années...
+ait connue depuis des annï¿½es...
 
 1393
 02:19:53,800 --> 02:19:54,800
@@ -5998,7 +5998,7 @@ ait connue depuis des années...
 
 1394
 02:19:59,500 --> 02:20:01,100
-Troisièmement...
+Troisiï¿½mement...
 
 1395
 02:20:02,100 --> 02:20:04,000
@@ -6010,11 +6010,11 @@ pour son sang-froid...
 
 1397
 02:20:06,700 --> 02:20:09,300
-et son courage inouï.
+et son courage inouï¿½.
 
 1398
 02:20:10,100 --> 02:20:12,700
-J'accorde à la Maison Gryffondor...
+J'accorde ï¿½ la Maison Gryffondor...
 
 1399
 02:20:13,700 --> 02:20:14,800
@@ -6022,7 +6022,7 @@ J'accorde à la Maison Gryffondor...
 
 1400
 02:20:23,300 --> 02:20:25,100
-Ex æquo avec Serpentard !
+Ex ï¿½quo avec Serpentard !
 
 1401
 02:20:25,400 --> 02:20:26,800
@@ -6044,7 +6044,7 @@ J'accorde 10 points...
 
 1405
 02:20:39,000 --> 02:20:41,000
-à Neville Londubat.
+ï¿½ Neville Londubat.
 
 1406
 02:20:55,500 --> 02:20:57,700
@@ -6052,7 +6052,7 @@ Si mes calculs sont exacts...
 
 1407
 02:20:58,000 --> 02:21:02,100
-je crois qu'un changement de décor
+je crois qu'un changement de dï¿½cor
 s'impose.
 
 1408
@@ -6062,7 +6062,7 @@ la Coupe des Maisons.
 
 1409
 02:21:50,100 --> 02:21:52,400
-Vite, vous allez être en retard !
+Vite, vous allez ï¿½tre en retard !
 
 1410
 02:21:53,600 --> 02:21:55,200
@@ -6070,7 +6070,7 @@ Le train va partir.
 
 1411
 02:22:03,300 --> 02:22:04,500
-Dépêche-toi !
+Dï¿½pï¿½che-toi !
 
 1412
 02:22:04,700 --> 02:22:05,800
@@ -6095,12 +6095,12 @@ Si ton andouille de cousin Dudley...
 
 1417
 02:22:53,600 --> 02:22:56,200
-te fait des misères, tu n'as qu'à...
+te fait des misï¿½res, tu n'as qu'ï¿½...
 
 1418
 02:22:57,800 --> 02:23:01,600
 le menacer de jolies oreilles
-assorties à sa queue.
+assorties ï¿½ sa queue.
 
 1419
 02:23:02,000 --> 02:23:06,700
@@ -6117,7 +6117,7 @@ Mais ton cousin l'ignore.
 
 1422
 02:23:17,300 --> 02:23:19,900
-Ça fait drôle
+ï¿½a fait drï¿½le
 de rentrer chez soi, hein ?
 
 1423
@@ -6140,10 +6140,9 @@ L.V.T. - Paris
 
 1427
 02:32:12,800 --> 02:32:13,800
-<i>Adapté par :</i>
+<i>Adaptï¿½ par :</i>
 SDI Media Group
 
 1428
 02:32:13,900 --> 02:32:14,900
 [FRENCH]
-
